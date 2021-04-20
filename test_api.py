@@ -28,5 +28,4 @@ print(u'Dcument sentiment magnitude: {}'.format(
 for sentence in response.sentences:
     print(u'Sentence text: {}'.format(sentence.text.content))
     print(u'Sentence sentiment score: {}'.format(sentence.sentiment.score))
-    print(u'Sentence sentiment magnitude: {}'.format(
-        sentence.sentiment.magnitude))
+    print(u'Sentence sentiment magnitude: {}'.format(sentence.sentiment.magnitude))
