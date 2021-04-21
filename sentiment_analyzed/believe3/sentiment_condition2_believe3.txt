@@ -1,0 +1,111 @@
+Sentence text: はー
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 勝ってよかったもの
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: さくら
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: うーん
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 花見月の段階でもコロナあったか
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: おやつアーモンドは生で買ってオーブンで焼く
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 香ばしくて美味しい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これはちょっと店員がきつかったなぁ
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 思い出したらこれはバッドだね
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: イラッとする
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: スシローくら寿司よりは好き
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これはあれだな難波で買ったチーズケーキ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: りくろーおじさんか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 食べたいな通販できるやつだ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ストーブね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: あー天王寺動物園のキウイさん買いに行ったわざわざ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 可愛かったなぁ並んでるのが一匹じゃあんまり可愛くない
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: この画像そっか
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: うーん
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ローソンだったねこれ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: お茶っ葉で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 再味が出るやつ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あこれは近いうちなんじゃない
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 清水寺の帰りだったよね確か
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ふっ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは家で再現してみたいやつだ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: うんニューライトだちょっと入りづらい
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これは店員さんがイラッとしたからバッドです
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これどこだったかなクラゲの水槽
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: うーん多分京都か
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 長崎か
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あ、これは京都だな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: いやわかんないどっちかな長崎だったかな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: うんクラゲだ
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: すごい興味があって好きなんですけど薬
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 飽きないいつも見たい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: うん
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5

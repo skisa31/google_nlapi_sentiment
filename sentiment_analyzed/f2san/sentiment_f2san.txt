@@ -1,3 +1,0 @@
-Sentence text: だったのかなあ
-Sentence sentiment score: 0.0
-Sentence sentiment magnitude: 0.0

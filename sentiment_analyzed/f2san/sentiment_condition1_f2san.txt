@@ -1,0 +1,159 @@
+Sentence text: えっとこれは家族であれ違うかなー
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あっ普通の駐車場でなんか車の集まり
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これもあっ奥に見えるのがスタジアムのあれなのでそうですね車の集まりがあってこれ息子と見に行ったやつですね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: えっとこれはすごいなんか珍しい車らしくて
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 教えてもらったんですけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えー何か
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これはんーとなんか改造してる車何ですけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーどこを改造したんだろ何で撮ったのかちょっとよくわからないぐらい
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: えーなんか北米仕様にしてると思うんですけど
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 全く分からなくて何で撮ったんだろう
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: えとこのシビックは結構改造してたと思います
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: えーでも何で撮ったんだろうそんなに思い入れないですね
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あこれはえーっと楽天の二軍が近場に来たので
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 撮りにその試合を見に行って
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これも駐車場のかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーここ結構なんで撮ったんだ
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: あっこれは懐かしい
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: えーっとハロウィンの時になんかえーっと地元のイベントがあって
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: わざわざなんかamazonとかで一緒は着ててさらにあの特殊メイクをやってる方がいたのでお願いしました
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: え何でとったんだろうそんなに思い入れないですね
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ただその時は珍しいなと思って取ったんだと思います
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これもそうですねなんで
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: えー
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 多分改造してるのが珍しかった
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: あっこれはなんか知人からもらったおもちゃで
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えーとすごいプログラミングできてそう面白かったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: んーとあっそうなんかそういう診断テストが好きで
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: やってみてでもえっ内容は覚えてないです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ホワイトボードに結構
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: なんちょっとえー親子喧嘩とかあって
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 何ですかね
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これはんーと家族で戦艦を見に行った時ので
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: そうですねまだ息子が保育園とかちっちゃいときで
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: であっあの時はまだお母さんも生きていて
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 懐かしいですね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ああこれはお兄ちゃん異母兄弟がいるんですけど珍しく
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: あずっと会ってない
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: あこれもなんで撮ったんだ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えー
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なんか自分ではうまく撮れてると思ったんだけど
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: そうでもないですね
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ああでもなんとなくこれを見るとなんかいい気分になるのは
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: なんか笑顔に見える口角が上がってる写真を見るといい気分になる気がします
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これはそうでもないですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんかさっきの写真の方がさっきの写真は結構気に入ってるのかもしれません
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーっとこれはえーっと亡くなった義理の母の病院に通ってたんですけど雪がすごくて綺麗だったので撮りました
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは夫の会社ですね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 夫の会社に看板がついたのでその記念で撮ったっていうシチュエーションだと思います
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 看板がついた直後ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あーっとあこれは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんかなんだろうバーベキューバーベキューですね
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これはクリスマスですごい美味しいフレンチを食べたんですよ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: また行きたいですね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
