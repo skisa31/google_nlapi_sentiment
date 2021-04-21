@@ -43,4 +43,4 @@ for file_path in files:
 
         output_file.close()
     counter += 1
-    print('complete %s file' %(counter))
+    print('complete {} file' .format(counter))
