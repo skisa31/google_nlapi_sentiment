@@ -1,0 +1,84 @@
+Sentence text: イカ水族館青色珊瑚礁岩
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 魚水族館ハゲカラフル
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 魚黄色しましま小さい魚
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 金魚綺麗青色海藻
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: イワシコブダイ水族館たくさんの魚泡まぶしい
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: すま木
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 水槽
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 平べったい
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 熱そう肉煙炭油
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 魚青色黄色砂小さい
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 野球阪神黄色広い風船
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ラーメン美味しそうあったかそうネギ卵
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 熊本夏お城緑空
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 深海タカアシガニ水族館暗い赤色
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: カエル小さい緑色茶色目が大きい
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 焼き肉美味しそう油焼肉ライク炭
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 玉ねぎ安いスーパー
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: きのこじゃがいも
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: カエル茶色土緑色葉っぱ
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: イカ青色珊瑚礁水深い青
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: アップルパイ美味しそう焼けてるりんご
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ペヤング量が多いipad黄色
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 駅地元青色案内板
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: コーヒー牛乳コンビニすなば
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 自然山緑色落ち葉
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 肉卵美味しそう神戸
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 焼き鳥熱そう味噌塩
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 卵味噌汁
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224

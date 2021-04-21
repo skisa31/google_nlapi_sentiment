@@ -1,0 +1,252 @@
+Sentence text: あこれ懐かしいな去年違う一昨年かこれ
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 全然使わなかったよ
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: めちゃめちゃ買ったのにまだあるけどもうこれあげるわ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あこれ寒かったんだよここ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 晴れなのに死ぬかと思ったよねダウンコートとか持ってったもんだって
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これもう一回やってもいいけどすっごい寒かった
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: あのCDどうなったんだろまだあるけどいやあ聴かないよねえ寒かったなここ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あまたこっちは暖かいけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: こんなにちっちゃい時あったねこの服は確実もうに入らないねこれたしか
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ああ懐かしいこれ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: エクスカリバーシティだここもねえまた行きたいけどここもう喜ばないかもしれないなもうなあ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 大きくなりすぎちゃったから
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ケーニッツじゃんここ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ここやばかったな何回か弾いたけど
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: いまいちな具合に遠かったしなんか
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: あネセロに行ったときだ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ちょうど妊娠中で
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: そうブルガリア行くまでに気分が悪くなったんだよね
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: あ懐かしいシラクスじゃん
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ここもうちょっといたかったな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 日しか滞在時間がなかったから短くて
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 平子ちゃんどうしてんだろうなあ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 結婚したのかな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あっまたこれだ懐かしいなあこれ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: まあでも大きくなって
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 立派に仕事もしてるもんねえ
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: あこれすっごい可愛かったんだよね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 水族館なのに全然関係ないけど
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これが一番可愛かった魚より
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: すごいまた行きたいけど
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: あっまたエクスカリバーシティじゃん
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ここのでもこの建物自体には入ったことないんだよね
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ここもやっぱりもう一度行ってみたいなあ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: あこれ全然全然使わなかったやつだ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 買ったのにまだあるけどもうこれもあげるわ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 全然駄目だったみんな普通好きなはずなのにねえ
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: どうしてこれ使わなかったんだろうなあ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: まあいいやとりあえず暖かくなったら自転車の方頑張ればいいけど
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これができたら自転車も楽ちんだって言うんだけどね
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: あこれまたエクスカリバーシティになってる
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここかあまた行ってもいいなあ
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: うーんいつのことになるんだろうね
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 今年中にはでももう
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: クリスマスのときじゃないでもこれ
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: クリスマスプレゼントだったよねこれたしか
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: うーんそっかあ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: やっぱり欲しい物を聞いてからあげるべきだよね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: あっこれね今年もやったけどこの時はもうちょっと頑張って作ってたんだよね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 今年はあまりものばっかり入れちゃって申し訳なかったけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: でもまだ喜んでくれたな
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 懐かしいなこの時は来たばっかりで
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: そうそう来たばっかりのクリスマスでまだあんまり友達いなくって
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 濃い一年だったよねこの時ね懐かしい
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 行きたいなみんなどうしてんのかな帰っちゃった人もいるだろうけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: でもまだ頑張ってる人も
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああでもこれも
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: この猿この猿結構アグレッシブなやつ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: すごい可愛いけどこれだけ見に行きたいんだけどそのために
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: クリスマスといえば今日だよねえ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 今日はもうまた今日もまたこの荷物を持って今年はもう言われたやつを用意したから
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: この時はよりはマシだろうな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 言われてないやつを買うのやめて欲しい
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 絶対喜ばないんだから
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: こんな大きいもん買ってさ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あげるの
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あっまた猿
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: また猿だこれ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 触れるとこがすごいよね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 触んないでくださいってみんな言ってるけど
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: めっちゃ餌あげてた
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あー可愛いなこれ一緒になったけどね
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: あの時あげたもので喜んでもらえたもの今あるかな
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: おままごとセットとか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああ懐かしいー
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: リュウシウンか
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: リナちゃんだよな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 全然Facebookも更新してないから
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: どうしてんだろうなあ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 猿きた
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: もういいかなって感じこの猿
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: すごい可愛いからいいんだけど
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 何食べてんのかなかわいいな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: あっこれフッセンじゃん
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 懐かしいけどようこどうしてんだろうなあ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612

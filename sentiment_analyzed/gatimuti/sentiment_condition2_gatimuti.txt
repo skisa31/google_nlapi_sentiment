@@ -1,0 +1,72 @@
+Sentence text: とんかつ美味しそう赤身味噌汁醤油机レシートキャベツ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 刺し身鶏肉内蔵お皿赤色
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 刺身鶏肉レモン美味しそうネギ紫蘇
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: タコ緑色にんにく枝豆皿
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 鶏肉刺身醤油机青色
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: タコ割り箸レモンチューハイ漬物枝豆円
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 卵肉がいっぱい味噌汁緑色白
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 鶏肉美味しそう生姜ビール机
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 唐揚げレモン野菜塩
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ラーメン熊本水氷チャーシュー
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 鶏肉美味しそう刺身生姜みどり色
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ゼリーあんこスプーン
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: とんかつ美味しそうお皿ご飯
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: カフェコーヒー人形モーニング東京
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 風景高い曇り東京ロフト
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 鶏肉美味しそう刺身内臓生姜
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 鶏肉わさび美味しそう飲み屋神戸
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 鶏肉刺身美味しそう内蔵
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 机小豆ゼリー甘そう白色アイス
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 鶏肉美味しそう生姜ビール
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: サボテン痛そう土大きい大阪
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 美味しそうステーキ塩コショウ芋
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ピザカロリー高そう美味しそう辛そう
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 白色ペヤング量が多い
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612

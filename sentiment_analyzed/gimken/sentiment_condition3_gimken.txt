@@ -1,0 +1,141 @@
+Sentence text: えーこれは確か調子こいてツタヤに行った時に一番くじをやって
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: あっ懐かしい高校時代使ってた鞄が出てきて
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 捨てるか捨てないかめちゃくちゃ悩んで結局捨てたやったかなこれ
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 謎の山の中に来て
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 大阪の境界線奈良県の生駒という山のところに来てゆっくりした写真やったかな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 今の妻と一緒に花見に行って花見デートをした時の写真だったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: すごい綺麗でここの地方なめてました
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは成人式の写真ですごいグダグダして
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 結局おかしな連中がたくさんいてあまり面白くはなかった
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは友達の屋上家の屋上でバーベキューをして
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: めちゃくちゃ夕焼けを見ていっぱい肉食べてガヤガヤしたかな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: アベノハルカスに登ってお土産屋さんに行ったけども
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 何回も見てる景色やからあまりそんなに新鮮味はなかった
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは友達と初詣に行ってたまご煎餅買いに行く前の元気な時に撮った写真でワクワクしてたかな
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これはなんとなく撮った謎の屋上のバーベキューの夕方の写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: まあまあええかみたいな感じで撮ったどーでもいいやつ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 実習をしてて気疲れしてた時に両親の計らいで連れてってもらっただんじりですごいテンションが上がりました
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 正月正月じゃなくて年末にえオールでボーリングして謎に撮ったカウントダウンの紅白を見てたやつ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 愛知県に一人暮らしをした時の初めてのアパートの名前で同級生と同じ名前やからネタにして遊んだ写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 大晦日に遊オールに行ったボーリング場で僕ら以外客がいなくて大声で笑ってって
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 後輩が宮城県の子やったから宮城の後輩の子が僕だけお土産を買ってきてくれた
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 牛タンやったかな焼いてすぐ
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: えー一人暮らしの家で国家試験の勉強してる時にとった謎の一枚
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ブラックサンダー
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ガムがマイブームやったっけをする
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: サークルスキューバダイビング部のサークルにいて物品の管理をしてた時の記録の写真でほとんど手伝ってくれる子がいない
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これは国家試験の勉強しながら当時鬼畜な教授の科目のテストの勉強していた時
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 引っ越し
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 新社会人になる前日の引っ越しの荷造りの時の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 驚いなんとなく撮った
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 両親はあーもうだんじり昔から知ってるだんじりに行ってまあ改めて思いなと思って写真を撮った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 人混みがすごいけど見どころがある
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これは愛知県で社会人になって大変な時に大学時代の同期が名古屋まで来て辛いもの巡りをしてる写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは阿蘇山に行って
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 実習中に遊び倒して指導者の人にめちゃくちゃ怒られた旅行のひと枚
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これも大分に先輩がいて
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: こっそり大分県に遊びに行った時の一枚
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 実習中だけどまあ良かった行ったことないけど
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 一時期進撃の巨人が流行ってリヴァイ兵長みたいな頭にしたいと言って友達に頼んだらこんなことになって調子こいとった大学生時代
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: だんじりを見に行ったけど結局すぐに帰って
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: まあまあ良かったかなっていうぐらい
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 成人式思い出はそんなにないけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: すぐに行って帰ったから
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 正味行かんでもよかったかなと思う枚
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 一人暮らしをして
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 家で自分のご飯を撮り溜めてた謎の時期
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

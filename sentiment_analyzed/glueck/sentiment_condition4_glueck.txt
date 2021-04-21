@@ -1,0 +1,192 @@
+Sentence text: あこれ懐かしいなあのいきなりいきなり公園になんかすごい大きくて笑われた時だな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ここまた行きたいけどもうここの公園子供っぽいだろうな
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: あこれあれだランチ食べに行ったところで旦那は何か少ないって怒ってたけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 私は美味しかったしまた行きたいんだけどね
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: あこれそうそうマッサージに行かせてもらった時だ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: なんかスロバキア行ったときにあのときはちょっとびっくりしたな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: いきなり子供預かってくれ言ってでもまああれ以来だよね
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: あここあれだな水族館に行ったときだけどすごいしょぼくてこれはやっぱ日本にはかなわないよね
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ここはもうたぶん行くことはないな
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ああここはじゃあもう回行きたいけど今は行けないよなあ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: みんな行きたい行きたい言うよね
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ここすっごい素敵でこのホテル泊まりたいんだけど
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: あ懐かしいけどこれ大変だったときだよね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: まあなかなか合わせることもできないし
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: うーん
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: おこれスロバキア行った時だな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 去年だよねこれねまだおばあちゃん元気だった時で
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: うーんなんかなあいろいろ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: おこれはオスロに一人で行った時のやつだね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この後にフィヨルドはやっぱ上から見たのが一番綺麗だなと思ったやつだよね
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ちょっといまいちだったなあこれは
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: あこれ最近のやつだすごいいい天気で
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ちょっと帰りにぐずられて面倒くさかった時だよな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: でもコロナ以降はいろいろ外に出かける機会も増えたかな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああ懐かしいここでみんなでもうキャンプして練習やって録音してでもあの時録音死ぬかと思ったよね
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: なんで子供連れてったんだろうね歳だった
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ぎゃん泣きだったもんねでも楽しかったかな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: みんなでゆっくり練習できることなんて滅多にないもんね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これ遊びでもう回行きたい気もするでも子供はもう忘れてるだろうなこんなとこ行ったなんてな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ちょっと遠いし
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ああこれスロバキアにみんなで行った時のだな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: こん時はそうそうホテルに船のホテルに泊まって
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: あだけど海がよく見えるとこだった
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あこれ東京行ったときだこの時はお父さんとお母さんと家族でみんなでこれに乗ってお台場に行ったんだよね確かね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: おこれはあれだねチェロネだね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 最近寒いしもう一回行きたいけどでも閉まってるよねどう考えてもねロックダウンだから
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ああ懐かしいここお台場の自由の女神ある所じゃん
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: あそうこの時は旦那がいなくて
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: そうそうそうこの後どこ行ったんだっけ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああこのこん時よかったなあ
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: この後ホテルがすっごい良かったんだよねえ
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: チェコかここも行きたいけど国境越えるから微妙に
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ああ懐かしい臨海公園に両親と行った時だね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここすっごい広くて自分が行った時のことなんで子供の時のこと忘れてるんだけど
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ああこここれすごい混んでて死ぬかと思った入る時
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: もうちょっと二度と二度と行きたくない子供は喜んでたけども
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: あこれはお台場で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あれだねなんだっけゆりかもめってやつだよね
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これはもう一日中ぐるぐるしてられるくらい子供が喜んだやつだ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ああこれは帰る日だな日本から
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 帰らきゃいけない日で羽田空港って結構きれいなんだよね
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: あでも今年は帰れない
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: あこれもまたみなとみらいでみんなで行ったときだけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 帰れないんだよね今日本はもう何だよこれからどれだけ帰れないんだろう
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: あ懐かしいこれアリスだ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これまあまあでも楽しかったけど高いよねここね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーまあリピートはないかな面白かったけど時間で
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あっこれもあれだねチェコで遊びに行った時だけどここもまた国境またぐから全然行けないよね今の時期だと
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: まあでも子供は喜ばないね
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: あっ懐かしいこれ動物上野動物園に行って
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: でも動物全然興味なかった
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 全然興味なくってモノレールばっか乗ってたやつだ
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 行きたいねここね
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 何するわけでもなく
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896

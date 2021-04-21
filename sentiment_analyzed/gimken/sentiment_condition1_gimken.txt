@@ -1,0 +1,141 @@
+Sentence text: これは初めてツーブロックにしてイキってた時の謎の写真
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これを撮った何週間後かに骨折してめちゃくちゃ恥ずかしいことになった
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 大学回生の時先輩たちに連れて行かれて
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 和歌山県のどこかで潜りにダイビングに行くと言われて連れ込まれた宿の駐車場
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは確かその行くついでにとれとれ市場にくっていうことになって
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: とれとれ市場に行った時の写真
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 久しぶりで来たから記念に撮った
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは一人暮らしをして初めてオムライスを作って思いの他ケチャップの出来がケチャップで書いた文字の出来が良くて撮った
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 一人暮らしの時に自転車置き場
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 兵庫県はパンク修理が回円するので
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 均で自分で修理キット買って家で修理していた
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは島根県に行って
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここでプロポーズ用の品を作った工房さんです
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは人暮らしの家
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 当時ウォールステッカーにハマり始めてでっかいシマウマや他にこの後と鳥かごやいろんなものをつけていく
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 謎の学校大学の学食
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 売店で売ってた謎のufo当時珍しくてただただ買ったけどそんなに美味しくはなかった
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: えっと宝塚の空を撮った写真です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 雲が綺麗やったのでただただ写真を撮ってみた
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 特にこれといってそんな意味はない
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: えー大学の時に急遽休みが何日かでき
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 友達京都に友達がいたのでその子と一緒に行った伏見稲荷
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはどこやったかな愛知県のテレビタワーテレビ塔か
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 下からのアングルがただ良かったのでインスタ映えようにただただ撮ってみた
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは大学あっ和歌山にタイミングに行った時のダイビングのお店の前の景色
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは宝塚の空をとってこの後確か宝塚から西宮の山手に向けてチャリをこいで途中で道が
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 高知県に行って珍しく駅前に銅像があって
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 坂本龍馬と他謎の歴史人物がいたけど興味があって撮ってみた
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: さっき言っていた宝塚の続きの山道で
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 神戸まで神戸じゃなくて有馬まで行けるんじゃないかと思ったが傾斜が強くて妥協した
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これはえーと奈良県の東生駒駅の写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ただただ地下鉄の方車庫が引退の車庫にあったので気になって撮ってみた
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 特にこの駅でのそんなに思い出といえば
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 駅前にマクドがあってここの
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これは当時住んでたマンションの一回が美味しいパン屋さんで職場の先輩がお土産のジュースを
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これは宝塚市役所でただただこの建物の景色が近代じゃないや造形的で美しかったから撮った
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: パン屋さんで美味しいケーキじゃないなパイを買って飲み物もらった貰った飲み物と一緒に撮った写真
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 時期的にクリスマスだっかな忘れた
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 一人暮らしの家に大学サークルの同期が遊びに来てただただ家を荒らしに来た
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ウォールステッカーにハマった結果壁中色々やった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 結局そいつがピザ屋でバイトしてたからいつもピザを格安で買ってきて食べとった
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 毎回毎回ピザを
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは彼女今の妻と確かルミナリエに行った時の写真
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 初めて人生初のルミナリエで興奮した
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これは大学の学園祭で余興のために謎の人物が出てきてずっと踊ってたんで面白半分で撮った
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えーサークルの合宿で行ったホテルから撮った景色で
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: この駐車場の横にプールがあってテニスコートがあってすごい贅沢な宿だと知った
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421

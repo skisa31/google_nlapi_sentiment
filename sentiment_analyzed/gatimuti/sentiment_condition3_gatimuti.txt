@@ -1,0 +1,72 @@
+Sentence text: カマキリ緑色葉っぱ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 焼き肉ステーキ脂っこいガスト
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: フランス料理綺麗なお皿ピカピカ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ステーキ熱そう緑
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 飲み屋おつまみ量が少ない
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: とんかつ美味しそう赤みキャベツ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: カフェコーヒー人形卵
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: とんかつ胡椒テーブル
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 貝寿司屋醤油机
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 雪円車赤色寒そう明るい黒い
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 飲み屋ねぎしらす一味
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 野菜直売所おじさん
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: じゃがいも北海道にんにく安いコンテナ袋
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 雪車マンション曇り下島
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 神戸曇り赤信号自転車
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 電車海外時一東京
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ものまねミドル
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: たこ美味しそうわさび緑色
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 山自然岩がいっぱい
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 緑木白色
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 寿司屋スシロー赤色
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ハンバーガー美味しそうチケット白い机
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: お皿レモン唐揚げ美味しそう
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ラーメン熊本
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224

@@ -1,0 +1,189 @@
+Sentence text: あこれマッサージに行かせてくれた時の
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: あのお姉ちゃんちょっと上手だったよねえ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: すごい安い割にさすがさすがチェコだよなあ
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ああこのしょぼい水族館多分リピートはないと
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんででもあれだけ狭いと仕方ないんだよねえ
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: すっごいでも混んでるんだけどな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あっ鯉のぼりこれ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 今年いや去年ロックダウン中に作ったやつだ
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これまだある結構楽しかったけどでも全然集中してなかったよね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これちょっと誕生日にこれはひどいよね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: このカルピスウォーターこれで円とかなんでやめようと思わなかったんだろう
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これ薄めて飲むやつじゃないって気づかないのかな
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これやっぱ高いしあとこの商品券使い切らなかった
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: あっ懐かしいこれメルク
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これ誰と一緒に行ったんだろう思い出せないんだよねこれどうしても
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ここにここまで船で違うここから船に乗ったんだっけでもこれ誰と来たかがどうしても思い出せないいっぱい来すぎたから
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 家族ではないんだよね思い出に残ってない人だから
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: まあなんだろうなあ誰だお客様が来たときに連れてったときなのかなでもきれいに撮ってるよねこれね
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: もう一回行きたいは行きたいと思う
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 多分一緒に行った子が全然思い出せないな
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 国内だからここはまあ行こうと思えば行けるよね今年もね
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: もういい加減
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: あードレスデンだ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これ何年前だろうもう年前とかになっちゃうんだ
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ここ住んでたよなあ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: この一年は私の人生のハイライト
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: あっでもこれ近くだマイセンだよね確かね
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ここは多分同居人みんなでそそう同居人みんなで遊びに来たんだよここで働いてるから
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: おっお台場
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 待ってこんな石あったっけ何歳の時これ、歳
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: なんかもう全然体型違う
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: あっベネツィアだこれも何年前なんだろうな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 多分年前年前とか年前とかだったかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 綺麗だよね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これこれ捨てたよねもうねでもこれ
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 結婚式みんなお祝いの代わりにお花だけ持ってきてもらっていくつかドライフラワーにしたんだけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 引っ越す時に結局ボロボロするから捨てたんだよね
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 素敵な結婚式にみんな冗談で花持って来いって言ったら本当に持ってきたよね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 何本集まったんだろう本くらい集まったんだけど
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これもなあとっとけばよかったかなとっといても場所ないしね
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 実際ドライフラワーってあんま縁起縁起っていうか風水的には良くないっていうから写真で十分だよね物溢れるし
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: どんどん断舎離していくに限ると思うあんまりね広いところにいてもしょうがないし
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あんまりこういうのも旦那も好きじゃないしね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: あるんだったらもっと捨てやすいというか縁起物選んだほうが良かったかな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これ横浜じゃない
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 横浜だ懐かしいな気持ちよかったな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: もうちょっと横浜は長くいても良かったかもね色々遊ぶとこあるし
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これはスロバキアに行った時のだ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: いやーでもな前みたいにみんなで旅行行く日は来るのかな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: あっこれヘルメスヴィラだねすっごい良い天気で死ぬほど松ぼっくり集めた時だったなあ
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これ実際中に入ったことがまだないから
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あニュルンベルク一人旅の時の
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これクリスマスマーケットだからそうだね今の時期だねもうちょっと前があの時は本当に
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これまたきた懐かしいなこれ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 懐かしいけどでもそうちょっと大変だったなあの時何歳だったんだろうあの時三歳
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 風車だドーデの
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: りなちゃんと一緒に行った時
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あの時あの旅の仕方はどうでもいいけどめちゃくちゃだったよね
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: カウチサーフィンってまだあるのかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あっこれすっごい楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 広いとこに行くとどうしても走りたくなるんだけどでもここ南フランスのなんてとこだっけなんとかっている要塞なんだよね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あっこれはあれだ尾関さんと一緒にバーで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: そうピアノのそうついてこいって言われてついていって
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612

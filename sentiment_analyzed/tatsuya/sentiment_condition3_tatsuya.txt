@@ -1,0 +1,264 @@
+Sentence text: 去年月usjにミニオンusjに行った時に撮った写真です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この時は元気でした
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ブラジルニューヨークに行った時に初めて会って写真撮ったものです
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: でも可愛いです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 昔はこんな可愛かったのに今は憎たらしい感じですね
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 緊急事態宣言の時に
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 公園で仕事をしてた時の写真です
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 今思えばいい今はいい思い出になってきたかなという感じはします
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 自転車の練習をしている時になります
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 公園で元気に遊んで
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 元気に育っくれてるなーって感じがします
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 今年の夏にオリンピックのスタジアムのところの写真を撮った形です
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: オリンピックは延期になってしまって
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 非常に残念ではありますが元気に育ってます
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 緊急事態宣言の時に
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 外で一緒に遊んだ子供と一緒に遊んだ写真になります
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: すごくかわいく撮れてるなーっていう感じです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: こちらもオリンピックの時の写真で
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 非常にポージングが上手くなって可愛い感じだなところです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 変な顔しかしないので
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ちょっとそこが困っているなーっていうところです
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これはハワイの空港で撮った写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: フライトが遅延してかなり疲れていた覚えがあります
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: でも元気な形で喜んでくれて嬉しいです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは緊急事態宣言中に公園で撮った写真で
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 年賀状の写真に使ったりとか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 非常によく撮れた写真載ってます
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 非常に可愛く
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ニューヨークの最後の日になります
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: この日はニューヨークで大雪が降って
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 非常に僕ら以外が出社できない状況だったので
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 大変だったの覚えています
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これはニューヨーク支店のメンバーとの最後の別れになってます
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 非常にあれ以来会っていないので
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 今何してるかすごく気になってます
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: こちらもニューヨークの最後の日になります
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 一緒に派遣されていた年下の女性のことを
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 一緒に行ったの覚えてます
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 非常に元気で活発な子で
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 最近会ってないので
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: また会ってみたいなというとこです
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: メキシコのカンクンで撮った写真です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ちょっと画像が荒いですけれども
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 非常に良い場所になってますの
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: で本当はセノーテというところですが
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: もっと写真を見てもらいたいなというところでございます
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これもセノーテの写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 実際やっぱこれぐらい綺麗な形になってますので
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 非常に良い場所だというところです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これもカンクンメキシコの
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: カンクンのホテルのプールで撮った写真になります
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 子供がまだ小さかったのでなかなか
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なかった所ありますがよかったです
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これも緊急事態宣言の時に撮った写真ですね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 非常にかわいく撮れていて
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 麦わら帽子もかぶれるようになったので
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: すごく良かったなっていうところです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これはオリンピックの写真になります
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: やっぱり変な顔をしてるので
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ちょっとここがもう少し可愛く取れるようになってほしいなっていうところが思います
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これはええと去年年末にですね年前年末にですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: カピバラですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 伊東のカピバラがいる公園に行ったところです
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: セノーテですね先ほどもちょっと出たので
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 同じ内容になってます
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 人が写ってないね分かりませんがすごく綺麗な場所です
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これはのホテルのベットになります
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: どうしても逆光でうまく写真が撮れなかったの覚えてます
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: この時はまだベット変わったので
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 枕等でカバーをしているような感じです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: セノーテで撮った写真になります
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ちょっと髪の毛が薄くなってきてるので
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 写真としては微妙なところもありますが
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 子供が可愛く写って位るんでいいかなっていうとこです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは先日サマーランドに行って
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 子供と遊ぶ時の写真になりますように
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 非常にたくさんのプールが会って
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 子供も喜んでいたので良かったなーっていうとこです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: もう少し暖かくなったらまた行きたいなという風に思っています
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: それからええとこのあとえーと
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: こちらも先ほどの写真の通りなんですが
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: セノーテに行った写真があります
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ここもやっぱり自分の髪の毛が気になるのでは
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これも先ほどの写真と同じで
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: オリンピックのスタジアムの前で撮った写真です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: やっぱりえーと何度見ても変な顔だなっています
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: <EMD>
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 終了
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071

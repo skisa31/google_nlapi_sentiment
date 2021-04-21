@@ -1,0 +1,156 @@
+Sentence text: えー自分の地元の家で周辺にあった謎のウルトラマンを大量に置いてある骨董品屋で回友達に見せたかった
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: えーうちの大学であった当時の学園祭
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: どんな芸人が来たか忘れたけど人がは賑わったからただただ撮った
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これはいつもお世話になっている
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 僕と同世代が経営してるカフェがある
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えー長屋じゃなくてそういう場所の入り口
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは愛知県で作業療法学会があって自分たちが参戦するから一回見に行きたかったのと
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 自分の第の第か第くらいの故郷である愛知でやるから興味があって行った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 結局みんなが難しいこといっぱい学んでてえーすごいなと思った
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えーこの後
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは京都に行って京都タワーを撮った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: で雨が降っていたからあんまり景色的なよくないけどただ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは一人暮らしの初心者セットみたいな仕送りに入ってた惣菜のやつで作ったおかず
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 調子こいて品ぐらい作ってたんかな
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは国家試験の時の写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 何してたんかなもう疲れ果てて寝て
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 誰かゲームしてる奴も居れば
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: なんかしてたな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 大学じゃなくてこれは留年した友達のでかいバイクを見せてくれると言ってそれを見に行った時の写真
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは特にもそんなに思い出ないかないやあるか
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: でも今ここにほぼほぼ行くことはないから
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: まあまあ記録として残ってる
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これも大分のお笑いあじゃない漫才師が来てギターをやるか何かで盛り上がってたのかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 別にこの
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは九州の阿蘇やけどもうそんなにいないかな
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ある程度つーちゃうわここの後には
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは骸骨がこの骸骨の腕を壊してばれんように確か友達と一緒に針金かなんかでやった気が
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: お世話になってるカフェの天井
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: なんかとコラボしてなんか天井に龍が付いているらしくてね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: そういう景観にされてある
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 国試の教授部屋です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: よくここではコンセントが天井に吊ってあるんで
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: こっからコードを引っ張ってた
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 大学の学園祭で確かこの次の次の年ぐらいに有名なアーティストさんが来て
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: バズった記憶がある
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: えーこれは兵庫県の写真で今も銀行口座持ってるけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: この銀行自体も潰れたかな店舗自体もう違うとこに振替えろって書いてあった気がします
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: それからここの銀行へよくお世話になった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは大学時代単発バイトをしたくて一度だけ派遣会社に入って行ったバイトが琵琶湖の花火大会の設営
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは名古屋の時にリハビリで働いてる際に新しく靴を買う時に謎の掘り出し物市で見つけたナイキ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 国家試験の休憩
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 勉強部屋でいつもここの上のコンセントから充電引っ張って遊んでた
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これはウツボのお土産が食べたくてネット通販で買った写真
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: で記念に写真を撮ってみた
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 最終日大学の一人暮らしの家を出る際に引っ越しを全て終え掃除した時の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 思った以上に広くて感慨深かった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: いつもお世話になってるカフェがある
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: えー古い民家ではない長屋
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここを知ってから週一回
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 大学のみんなで集まった部屋
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: よくここの部屋でカップ麺食べたりケトルを持ち込んでた
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: お世話になったカフェだが時々犬がくる犬がいるカフェなので
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579

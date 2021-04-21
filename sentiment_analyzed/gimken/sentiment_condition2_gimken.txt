@@ -1,0 +1,141 @@
+Sentence text: これは思い出の幼稚園の成人の会に会の時に行って成長した時見たらちっちゃいな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 大きいなと思ってたものたちがちっちゃくて
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんかこう寂しいようなしょんぼりした気持ちになった
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: でも砂場とかもこんな広さやったっていうの初めて知ったから
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これは結婚式初めてじゃない結婚の婚姻届を書いて記念で絵柄を撮ってインスタにあげました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは祖父母の家があったのでそこの家の川の水の状態を撮った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: まあ大雨の日とかはどしゃぶめちゃくちゃ川いっぱいに
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 結婚の時に撮ったコンビニで印刷できる婚姻届
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 色々あってたくさん柄が
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 福井県に行った時の写真で途中で降りようと思ったけど結局降りる宿とかもなかったんで通過した
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは富山県にあるガラスの美術館で今の嫁さんに押されて旅行に行った時に撮った写真すごい綺麗で
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは実習中に遊びに行って北九州を北を一周して遊んだ時
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 南九州北九州か一周した時の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 今はこの路線が地震の影響で使えなくなってるから行けてよかったと今はつくづく思っている阿蘇阿蘇山で降りて阿蘇山に
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは九州に実習にいるときに
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えー当時大分駅ができたての頃で芸能人がライブに来るということで
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは阿蘇で降りて
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 結局降りたかったけども福岡に行く熊本に行くのを優先して通過するだけでなった
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは大分県のその大分駅の謎の建物の屋上であった謎の池で珍しいから記念で撮った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは  阿蘇やけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: よくよく調べたらここから降りて阿蘇山までかなりの距離があったのでまぁ結局降りずによかった
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは大分の上に見たけど
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 結局この上でただただ景色見てたそがれて帰っただけやったかな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これはコンビニで印刷した婚姻届やけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーこのデザインにした理由はお互い犬にそっくりやからって言うので犬にした
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 福井駅で降りて先富山に行って最終日に福井に行ったけど滞在時間が短すぎてもうここはあまり行けなかった
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これは富山県のガラスの美術館
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 今は当分コロナで行けないのでこの時期にいけてて良かったなと思っている
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 福井駅
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 結局メインは福井駅じゃなくて福井県にある恐竜の博物館に行って結局そこで時間取られすぎてここの駅周辺は行けてないです
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 愛知県で初めて就活で職場見学に来て当時まだ駅ビルが建て替えてある時
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは川の水が少ない時を撮ってただただこの周りの景色を見ようとした
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 思い返したくて撮ったかもうこうへんと思ったか
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは国家試験の時の写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えー疲れてるからみんな休み時間休憩してる
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: で基本ここにこもっていた
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは愛知の写真やったけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: この確かとった理由はこの真ん中のメタルスライムみたいながただただえもいと思った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはビルを建てているこんな光景を初めて見たから記念撮った
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: まあ来るかどうかここに来るかどうか考えずにただただ景色を撮りたかった
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは一人暮らしを一番最初に始めた時の自炊飯ほとんど
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 振り返ってみると冷凍のご飯
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えー牛丼の素のなんか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは友達が家に来てビザを解禁したけども匂いくそくさすぎて
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 毎回換気に困ってたけどガヤガヤできてよかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: で結局その友達が今もなんやかんや今も連絡を取っている大学のサークルの仲間であるには
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 変わりないので不思議な縁を感じている
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
