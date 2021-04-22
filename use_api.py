@@ -16,9 +16,16 @@ def main():
 
             name = os.path.basename(os.path.dirname(file_path))
             file_name = os.path.splitext(os.path.basename(file_path))
+            # text&score$magnitude
             output_path = './sentiment_analyzed/{}/sentiment_{}.txt'.format(
                 name, file_name[0])
             output_file = open(output_path, 'w', encoding='utf-8')
+            """
+            # score only
+            output_path = './sentiment_analyzed/{}/score_{}.txt'.format(
+                name, file_name[0])
+            output_file = open(output_path, 'w', encoding='utf-8')
+            """
 
             print('analzying sentiment...')
             for line_text in text:
