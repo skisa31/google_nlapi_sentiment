@@ -16,7 +16,7 @@ def main():
 
             name = os.path.basename(os.path.dirname(file_path))
             file_name = os.path.splitext(os.path.basename(file_path))
-            # text&score$magnitude
+            # text&score&magnitude
             output_path = "./sentiment_analyzed/{}/sentiment_{}.txt".format(
                 name, file_name[0]
             )
