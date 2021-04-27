@@ -1,4 +1,5 @@
-Sentence text: 去年月usjにミニオンusjに行った時に撮った写真です Sentence sentiment score: 0.0
+Sentence text: 去年月usjにミニオンusjに行った時に撮った写真です
+Sentence sentiment score: 0.0
 Sentence sentiment magnitude: 0.0
 Sentence text: この時は元気でした
 Sentence sentiment score: 0.800000011920929
@@ -255,3 +256,4 @@ Sentence sentiment magnitude: 0.0
 Sentence text: やっぱりえーと何度見ても変な顔だなっています
 Sentence sentiment score: -0.4000000059604645
 Sentence sentiment magnitude: 0.4000000059604645
+Sentence sentiment magnitude: 0.699999988079071
