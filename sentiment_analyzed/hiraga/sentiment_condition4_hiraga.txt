@@ -1,0 +1,93 @@
+Sentence text: の方かいいなかわいいなこのイラストいいな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ああイルミネーション寒かったけどきれいだったなあ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 阿波踊りだったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 茶畑面白かったけどなたいへんだったな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 生で見るとかわいいな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: なんもねえんだよな
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: でも最近どこだっけかなこれ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なんだろうどこだったけわかんないな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: なんかこの時伊勢のスヌーピーかわいいな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 買っとけばよかったなもういけねえし
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: こっちの方が目立ってた気がするなあ
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 行きたいなあ海外台北焼き
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 考えられないけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これも見えなかったんだよな選挙あったんだよな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: この時だから見えなかったんだよな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ゆるキャラグランプリの時か
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 色あせてんだよな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: コワいなイラスト
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: かわいいな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 地元の方緑が真みどりないからなあ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: カメラにもちゃんと写ってたんだな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: いつだったけなあ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なんだっけ今年やってたのかなイルミネーション都会だったし
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: いいな外今どうなってるんだろう
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: なぜかダイソーある
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 海外行ってもダイソーある
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああ確か言ったときまだやってなくて見たいなあ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 原宿って書いてあるのに
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 普通の商店街の感じがしたけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: でももっと楽しく感じんのかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 飲たいなやっぱこの辺何もなかった気がする
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612

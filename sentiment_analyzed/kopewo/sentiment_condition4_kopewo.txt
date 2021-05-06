@@ -1,0 +1,96 @@
+Sentence text: 櫻がとてもきれいでよかったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 誰と見に行ったかがちょっと思い出せないけどこれは上海のアイスでとてもおいしそうだったので買ったのが
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: あんまりおいしくなかったので残念でした
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これはおなじみの魚雷のあ魚雷じゃない楽勝のつけ麺
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは彼氏です
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: どこに座ったんだっけな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: アスファルトの上
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは姉が買ったものとか言ってた気がしてちょっと古いクリスマスツリー
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 彼氏にはこのクリスマスツリーに関してかわいいと一言も言ってくれなかったなあと
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これもそういえばたくさんの先輩後輩と一緒に食べたなあと
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 同級生も食べましたね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは長崎のおしゃれなカフェで友達と愚痴を言いながら食べた記憶があります
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: そうですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは誕生日プレゼントで誕生日のケーキとして
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: カフェに連れて行ってもらってとてもおいしかったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: この人に連れて行ってもらいました
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: そうですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: はいこの麺がたまらないんですよね
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: この時すごい車で酔っちゃって半分寝てて彼氏に切れられそうでしたね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: まあ彼氏は怒らなんでいいんですが
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: このクリスマスツリーどうしようかな片付けようかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これどこに座ったんだっけな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 卒業された先輩たち楽しそうですね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは私の卒業式の写真でめちゃめちゃ楽しかった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: その人たちと一緒にこれも食べた記憶があります
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: そうですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 今同棲をしていつも怒ってます
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: このチーズケーキは私が大好きなもので毎年買ってもらってます
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: はいうんなんでしょう
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんで地面に座ったんだろうと怒りました
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 最近味が変わった気がしてあんまり頻度多くいかなくなって
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 行く人も少なくなったのもありますけど
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645

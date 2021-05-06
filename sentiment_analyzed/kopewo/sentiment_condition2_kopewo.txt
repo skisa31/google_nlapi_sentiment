@@ -1,0 +1,90 @@
+Sentence text: クリスマスツリーを飾って楽しい気分になりました
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: まあちょっと食べたいものを食べたなあと美味しかったなあと
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 食べ物の写真が結構多かった気が
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あ辛いですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 姉からもらったはがきがとってもかわいい
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: すごいラーメン好きみたいな後輩と一緒に行った記憶があります
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これもラーメンめっちゃ好きな感じですね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 舌がしびれる感じです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: クリスマスツリー飾って楽しかったな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 後輩と行けたのでちょっといいかな楽しかったですね
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは私が全部釣ったヤマメで先生に褒められた思い出があります
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: クリスマスツリーはうん
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは実は自分がとってない写真で後輩がとってくれた写真です
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これはお知りに粉がついてるよって知らせたくて撮った写真です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: かわいい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 豚の頭がたくさんあってグロいなあと
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: まあでも楽しかったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: またらくしょう行きたいなあと
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: もうすぐ閉店しちゃうカフェなので思い出に行きました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはずーと食べれるので
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: いつでも行けるので
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これもいるでも行けるかなって感じですけどここの店の混ぜ麺の方が好きです
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: もうちょっと草食を考えようかなって思います
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: なんかすごく今食べたくなってきました
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは長崎行ったとき
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 美味しかったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは国定ラーメンですね熊本ラーメンでとてもこってりして美味しかったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これはすごくあっさりした料理でしたこのときの友達と沢山話しました
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: さっきの友達は佐賀の大学の薬剤師として働いててとても大変そうな感じでした
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これもコーヒーが美味しかったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421

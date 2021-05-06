@@ -1,0 +1,90 @@
+Sentence text: ああ初めて自宅でうどんを打ってみたけどなかなかおいしくできたなこれからも続けていこうと思う
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 上手に切れなかったのがちょっと残念
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: お店会社でお店を出すときに商品の画像をとったなあ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: うなぎパイ工場に友達といって楽しかったなあ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ともだちにWIIを送ったけどソフトも一杯あったからきっと喜んでくれてるだろうな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 初めて高級食パンを買ったけどおいしかったなあけど高かったなあなかなかいつもは買えないなあ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これはデザートピザのメニューを作ったけど開発するのにすごい苦労したな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ああ懐かしい友達にあったなああの子は今高知に行ってるんだよなあ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なかなかこの先会えなそうだけど
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 初めてこのことお父さんを見たけどすごく優しそうなお父さんだったなあ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: この時の夫婦の笑顔が本当に素敵だったなあ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 東京ドームからの夜景で次の日息子が受験だったから自分の方が緊張しちゃってたな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これ買ってくれたみたいだけど普通ですっていわれてちょっと残念だったな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: うなぎパイ工場に行ってなんかうなぎパイもいっぱい買えたし良かったな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 息子の初めての一人暮らしのセッティング
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは成分献血するの大変だったな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: こんなに大変だとは思わなかったな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 息子が一番かわいかったころの写真だな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: この時のサイズに戻ってくれればいいんだけどほんとにかわいい
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 息子が初めて餅つきを体験して
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 前歯がない時期だった
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: この時友達が本当に幸せになるんだろうなって実感したな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 今も本当に仲がよさそうだから安心してる
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 東京ドームホテルの夜景は綺麗だったななんかまた遊びに行きたいな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 嫁さんに頼まれたDVDを探しに行ったけどなかなかいいのが見つからなかったなあ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 息子が初めて浜松まつりに参加したとき
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 当時電車が好きだった息子連れていろんな電車に乗りに行ったな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: この時付きたてのお餅を手べ手息子がほんとに喜んでたな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ピザづくりが思ったより難しくてどうしていいかよくわかんなかったなあ
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

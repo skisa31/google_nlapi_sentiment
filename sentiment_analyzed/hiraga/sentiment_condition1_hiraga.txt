@@ -1,0 +1,171 @@
+Sentence text: あぁ寒かった。
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この時寒かったなぁ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: もう行きたくねぇなこれ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 朝時とか時だった気がするな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 近くの紅葉綺麗で、やっぱきれいだなあ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ちょうど神社の色とあってるしきれいだなあ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 近くでもいいな。
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 盛れたからいいなあ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 紅葉あんま見れなかったからなあ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ああやっぱきれいここ
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 最近言った三渓園だったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: やっぱここ楽しかったなあ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 近くだとなんかありがたみ忘れるなあ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 無理してるもんななんか
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 微妙に一部だけだからなあ色ついてるの
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ぬすまれた時だ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: とったんだなあこんなぐちゃぐちゃなのに何で撮ったんだろうまじで
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: あきらめるしかないもんな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 何年前だ年ぐらい
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: やっぱ何かやだな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: やっぱきれいはらはらしたあの頃
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 寒いさむい
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 痛かったからなあのとき
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: よくみんな元気だなって思いながら
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: なんかすごい雲ってたな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この花綺麗だな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 綺麗だけど春かきれいだったな戻りてえな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 早稲田通りがきれいだったな
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ここ行きたい乗ってないから行きたい。
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 乗ってないからな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これなんもなかった
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ほんとなんもなかった
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 行きたいけどなんかなかった気がするから行かないかもなあ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: めっちゃ近く
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 綺麗だけど近くだから今この近くなんもないしなあ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: <>SW
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: だからなあ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 晴れてんだろうな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 近くで見たいけどこのくらいの距離でもきれいだったんだな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 安かったまた食べたいこの値段で食べたいこれは食べたい大根だからな大根美味しかったな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 円手おかしいだろていうもうどこでも
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 円で買うってないな最近
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: たませんも安かったなあ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 綺麗だったし
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ちょっとうるさくなったのはしょうがないけど
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: あと珍しく吸えるとこだからこんなそうかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ふじさんだなやっぱふじさんみるとおちつくなあ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: なかなかあそこから見ることなかったからな上ったかいが
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 懐かしとこ　ディズニーか
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 髪の毛綺麗だけど暗かったな寒かったなこのころも
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 夏だった気がするけど寒かった気がするな
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 冬の時期大丈夫かな
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: こんなに人いねえだろうな
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: イルミネーションもやってないんじゃないかな　やってんのかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 疲れたなディズニー
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: めちゃめちゃ歩いてからここ行ったからなあ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 夕方になって上ったけど、上ったけど、みたいな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

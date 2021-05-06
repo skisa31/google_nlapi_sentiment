@@ -1,0 +1,96 @@
+Sentence text: 最近だなあ綺麗だな効用綺麗だけど切ってるし
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 綺麗だけどどうかなまあでも
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 赤いの綺麗だなやっぱ紅葉いいな冬とかとかにするなあ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 綺麗だな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: もうちょっときれいになってるのかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 懐かしい感じがする雪まつり
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 月だもんな秋だな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: そう考えると冬の方がいいな秋だよな秋の方が雰囲気が好き
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 雪綺麗だな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ビール飲みたい
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これはなんかふつうにきれいなんだよな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 店の近くにあった気がする
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: きれいだな結構最近だなあこれ
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: やっぱこの写真いいな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: よってつらかったな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: とりのこからの写真か
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: また行きたいなあ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 洞窟の中はいるってなかなかない機会だし
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 揺れるんだよなあ酔うんだよなあ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 懐かしいな結構前だな美味しかったけどたいへんだったな海いいなあ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: てか旅行行きてえなあ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 今もう切っちゃってんのかな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: この時点でハラハラしてたもんな
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 今の時期どうなんだろう
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: やっぱ桜のほうがきれいだな櫻の方が好きだな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 川のほとりでいい店だったな店というか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: やっぱ近場だもんな
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あんまりだなこう見るとなんか
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: あんまりだああ
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 効用が良く見えラバ綺麗だったらいいんだよななんか
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 空がなかなかどんよりしてるどんよりしてるもんなあ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 石油コンビナートのところから確か
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896

@@ -1,0 +1,84 @@
+Sentence text: ああこれは久しぶりにうなぎパイ工場に行ってちょっと面白かったなあ
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: こんなに大きなものがあってびっくり
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: もう少し町中にあればいいのに
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは友達に送るための本を準備したんだけど気に入ってくれたらうれしいなと思った
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: すごい綺麗な状態だったから喜んでくれるとは思うけど
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 息子が高校生の時にサッカーの試合で何度も訪れたグラウンド
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 近所の大きな公園にどんな木があるのかなって探し回ったら楽しかったな
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 息子の高校時代を思いましてサッカーの試合を毎週末楽しみにしていたなあ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 一つ一つ木の名前がいろいろあって覚えるのがたいへんだったな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これおすすめされたお菓子を買ってみたけどなかなかおいしくて気に入ったなあ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは自分が気に入ったのを友達におすすめしたけどいまいちって言われてちょっと残念だったな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: うなぎパイ向上に行ったけど見学ルートが短かったのが残念だったな
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: でもいっしょに行った友達は楽しんでくれてたみたい
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 久しぶりの東京ドーム息子といっしょに行けたからすごく楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは友達にゲーム機一式を送ってあげたんだけど喜んでくれてるかな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 子供たちが遊んでくれてるといいけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: きっと喜んでくれ樽と思うけど
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 今年の夏に発見した久しぶりになんかおいしいジュース
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これを嫁さんに買ってきてっ言て頼んだんだけど見つからなかったなあ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは成分献血をしたんだけどすごい長い時間時間やって退屈だったなあ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: マックで朝食を食べたんだけど一人で食べてもあんまりおいしくなかったな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 冬の遠州灘の景色がすごい綺麗だったこの時は太陽が
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 浜名湖に釣りに行ったけどあんまりつれなかった
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: でも釣り糸垂れてるだけで楽しかった
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: また行きたいなあ早くあったかくなってくれないかな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは神奈川で撮った息子の写真だけどすごいかわいいなあ今はすごくあの頃にまた戻ってくれるといいけど
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは息子がサッカーが好きで日産スタジアムにいろいろ買いに行ったな
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これは嫁さんが買ってこれなかった商品でまた自分で買いに行って面倒くさかったな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224

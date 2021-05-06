@@ -1,0 +1,84 @@
+Sentence text: 近所の公園にトーテムポールみたいなモニュメントがあるなんて知らなかったからびっくりしたな
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 浜松まつりの展示物があるみたいだけど結局入れなかったな
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは天竜川の河口から見た風力発電だけど風が強かったからすごいぐんぐん回っていてびっくりしたな
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これ公園のモニュメントだけどどこが素晴らしいのかなんかよくわかんなかったな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 今年見た唯一の紅葉がイチョウの木で
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: トーテムポールのこれのどこが芸術なのかちょっとよくわかんなかったなあ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: すごい広い公園だからいろんなところがあったけど全部歩いて回るのはすごいたいへんだったなあ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 嫁さんの車のバッテリーをお店で交換すると高いから自分で交換しようと思ったな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: この日は風が強くて寒かったけどいい運動にはなったかな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: うんこのバッテリーがもうすぐ届くけどやっぱり自分で交換しなきゃなあ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: この日は人も少なくてすごく散歩がしやすかったな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 浜松まつり会館中を見たことがないけどいつか行ってみたいなどんなのが展示されてるか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここはなんかいろいろ生物がいるみたいだけど全然わかんなかったな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ちょっとなんか悩み事があるとすぐ海見にに行くけど波打ち際見てると癒されるな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: この風力発電のプロペラがこんなに勢いよく回ってるのは初めて見たな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 思いのほか回ってないときも多いのだけど
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: あそこの下に行くと何があるのかな行ったことないけど
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 太陽の日差しがすごくキラキラ海に輝いていて
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これはわだちの跡ちょっとバイクで走ろうとしたけど走れなかったな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: このサッカー場に息子の試合を見に行くたまに夫婦二人でよく出かけたたな
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: やっぱり海を見ると心が落ち着くな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ずっと海の近くで生まれて育ってきたから
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 息子に頼まれて集めてみたけどあんまりきれいな貝殻見つからなくて残念だったな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 神宮がんえんのイチョウ並木思い出すな銀杏をいっぱい拾ってみたかったけど
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 早朝から拾われててあんまり見つからなかった思い出があるなあ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この公園はジョギングしてる人がいっぱいいて
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 波打ち際の音と波の動きが心落ち着かせてくれるな
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 友達といったお寺だけど歴史を感じて落ち着いた場所だったな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421

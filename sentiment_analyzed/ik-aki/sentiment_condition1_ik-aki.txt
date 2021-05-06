@@ -1,0 +1,147 @@
+Sentence text: これはいつのクリスマスかな年末かな去年おととし
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あれこれ私たちがあげたやつじゃないな恵ちゃん
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 懐かしいなこれおばあちゃんにスリッパ挙げたときもあったな年目かな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 今年はちょっといけないけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ケント君に何あげたときかなお洋服だ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 若いな年前かな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 皆でご飯食べてね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 南ちゃんたちはいない感じかな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: さねはちっちゃいな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ベイブレードだからだいぶ前かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 幼稚園だね幼稚園の時だった頑張ってる
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ちっちゃ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 友里がサバイバルをもらったのは去年かおととしか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 年でだいぶ大きくなっちゃって
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: うれしそうさっきのケント君
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: どんな服挙げたんだったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはついこないだだね
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 友里はすっかりいいお姉ちゃんになって
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これで勉強できてるのが謎だけど
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 義文もお姉ちゃん大好きだし
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これいい写真だねクジャクピッタリ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 年賀状あったら年賀状でもよかった
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: さねは写真映えするから
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ユーラシアもまた行きたいけどね
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: こんなのあったかなたまたま入ってた
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: そっか友里がいるからVRの奴かこれじゃ意味わかんないね
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: NHKのときねNHKのどこだっけ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この髪型はだいぶちっちゃいな年前
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 南ちゃんたちいたんだ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: お腹大きいときだ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 去年か去年じゃないおととしかこんな顔大きくない
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 去年か私の服が去年だ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 年で友里大きくなっちゃって
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: パパの服が年前かな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: なんだったかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 覚えてないなおじいちゃんに何あげたんだっけな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは海老名のららぽーとか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 年前かなあちっちゃいもんね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 年末かな年末だね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: おばあちゃんにいスリッパ挙げたのは年前だから
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 南ちゃんが結婚したのいつだっけ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 今年はなかなか行けないからこういうこともできないね
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: よいしょあそうそう友里がさっそく読んでた年前だね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: おっきくなったね
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 特にこの年で大きくなったね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これじゃなにをもらったのかわかんないけど
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 何あげたっけな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: お大っきくなったちっちゃい友里
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 広いの良いね状態がよくわかって
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421

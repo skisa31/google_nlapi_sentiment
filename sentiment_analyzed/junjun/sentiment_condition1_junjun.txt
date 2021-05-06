@@ -1,0 +1,81 @@
+Sentence text: ああこの時東京駅ですごい長い時間待たされたな
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 息子がピザの作り方を教わっていたな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: コロナが始まってトイレットペーパーやティッシュペーパーが手に入らなくなってたいへんだったな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: すごく大切だった部下が結婚できて本当に良かったな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 久しぶりに学生時代の知り合いや親友に会えてうれしかったな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: その部下に初めて子供が生まれてその子供を見て
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: むすこが東京ドームホテルに泊まったなあ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 息子の成長を感じてうれしかった
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ああ本当に幸せになってほしいなって思った
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: それで初めて初めて子供ができて妊娠中に浜名湖にドライブに行ったなあ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: アメリカの留学友達に会えてうれしかった
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 元同僚が結婚して本当に良かったな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 幸せそうな顔を見れて本当にうれしかったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: あこの時本当にお母さんになったんだなあって実感しました
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これはなかなか厳しい仕事だった
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 思うようにお客さんが来なくて販売員は大変な思いをしてたなあ
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: この時すごく気分が盛り上がってちょっと涙が出てきそうになっちゃった
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: どんな服がいいのかすごく悩んだ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なかなかネクタイが決めれれなかった
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: この時周り皆が寝いてきて自分ももらい泣きしそうになったな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: この日が最高にきれいだったと思ったなあ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: なんか懐かしい仲のいい人組
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 初めて旦那さんを見たけどすごくいいひとそうで 安心しました
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 息子と初めての浜名湖鉄道に乗ってすごく楽しみにしていてこっちもうれしかった
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: お母さんになって本当にうれしかったです
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なかなかりりしい顔だけどいいひとそうなのが十分伝わってきました
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: この日は天気も良くて最高の結婚式だったと今まで見た中で最高な結婚式でした
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421

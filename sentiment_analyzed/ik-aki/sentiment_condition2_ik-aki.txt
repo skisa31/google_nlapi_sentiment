@@ -1,0 +1,123 @@
+Sentence text: 何だったかな確かご飯を食べに行った時の何品目だったかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: おいしかったなこれは演出がすごくて
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 確かスモークした確かサバだったかなカツオだったかなすごいこれもおいしかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これが一番びっくりしたんだよね
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: お皿で焼き芋をするって初めて見た斬新な感じで
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 家ではできないけどまた食べに行きたいな
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 中で少し燻製にしている感じで器もすごいよね
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: そうそうこれが確かアワビだったかな下のところの下がみえてるっていうのもすごいおしゃれでそうそうそんな感じ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 夏はまた中身が変わるんだろうな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これさっきの焼き芋の奴だね
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: さっきのアワビの奴か
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: なんで縦向きになってるんだろう確かカリフラワーだったな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: もうちょっと真ん中にピントが合うように取れたらよかったんだけどカリフラワーがすごくおいしかった
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: カニの奴だねちょっと小さかったな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: お花が確かすごい美味しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: そうそうこれくらいの大きさの方がいいね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 海藻がしょっぱくいいな時だったかな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 友里とパンケーキ食べにに行ったときね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 喜んで食べてくれたからよかったまた行こうね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これねさっきの焼き芋
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 子供たちもすごい喜びそうだけどこれを家でやるのは厳しいかな何とかやってみたいけどね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: そうこれ芋じゃなかったんだよね芋に見せかけた紫芋と安穏芋を少し揚げたたみたいな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 木の枝にさすのもおしゃれ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: この部分だけなら何とかできそうだね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: オークションに出すやつだね
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: この写真も入ってたんだねもう売れたやつかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これはいつ頃のサメ雪かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 年前年前かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: どこ行った時だったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはついこないだのズーラシアだね
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 何見てる時だっけな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 鳥かなあ
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: パパが力持ちあっだね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 義文見てないしね
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 友里がとったのかなあなんで同じ写真が何枚もあるんだろう
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: おいもね湯気が湯気がこれとれてるな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これねお皿の下にチョコが映るってのがびっくりだったね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 花の軸の部分が足になってるってのもよかったね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これがきれいに撮れてるね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: やっぱピンボケだなあ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なんでこれだけうまく取れなかったんだろう
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5

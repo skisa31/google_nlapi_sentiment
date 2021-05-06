@@ -1,0 +1,87 @@
+Sentence text: これアメリカのナパワインで美味しかったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 母が持ってるちょっと高かったお土産です
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これを人で飲んだので一杯もちょっと少なめでもうちょっと飲みたかったなあと後悔してます
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: まあ絵がきれいだったし何で選んだかと言ったらたぶんフルーティで美味しかった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これはヤマメですね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 匹死んじゃってて人の熱でやられたって聞きました
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 弱いなと思いました
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これは初めて軍艦島に行った時の写真で空もいい感じだし
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 天気が良くて波もあれてなかったから上陸できた
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは二枚とも同じ友達とごはんしてこれは何食べたっけ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 牡蠣のホイル付けお姉ちゃんと一緒に食べた
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは友達と赤牛丼を食べた
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 赤牛丼は沢山店があるので初めて行ったところ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これはすごく楽しかった記憶があります
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 投げ飛ばされて落ちた
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これも東京のライブでちょっと人が多かったですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはイチゴでめちゃめちゃ楽しかったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: おなかいっぱいすぎてトイレに何回も行って
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 沢山食べたことを後悔して大変でした
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは懐かしグッズでもう捨てちゃいましたねかわいそうですけど
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これはちょっと変な思い出があるものですね中の味が頼んだものと違ってて
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これは目の前アメリカに行ったときすごいでかいツリーがあって思わずとっちゃいました
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これはアメリカに行った証拠をとろうとインスタ映えのやつを
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 結局ツイッターとかインスタには挙げてなかったと思います
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 友達に見せるくらい
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この時よく車酔いする私なのに船酔いしなかったなとほめてあげたい
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 確かこの船で酔ってた人も結構いたので私はまだ普通よりも酔わないんだなと思いました
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 空がきれいですね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 懐かしいですね今はいけないので
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071

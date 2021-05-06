@@ -1,0 +1,120 @@
+Sentence text: これはいつだっけ結婚式の後だっけ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: たのしかったな楽しかったけどしんどかったな次の日
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: なんかこれもう今こんなことできないからな
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは友里と友里のお年玉で新横浜か大阪のじいちゃんばあちゃんといった時だ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは義文つい何日か前だったなかわいい
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これはあれだ義文のお食い初め膳ね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: タイ美味しかったね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: さっきの奴だね縦だといまいちだな横にちゃんとしとけばよかった
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: アワビがおいしかったな
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 今度いついけるかな来年の誕生日かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これなんだっけなあ白菜
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんだっけかな
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これ覚えてないな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: カリフラワーはさっき出てきたから
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 結婚式だね珍しいドレスだったよね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 覚えてないもんだなそうそうこんなだったこんなだった
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 懐かしい年しかたってないの感もっと前のような気もするけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: いつかなあ吉野家で牛丼食べることそんなないけどいつかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これ結婚式
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: きれかったな幸せそうでよかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 幸せそうでよかったけど確か結婚式場が遠かったなあ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: いつだっけ秋冬だったかな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 陽介さんが買ってた陽介さんだっけ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 多分陽介さんが結婚する前だから
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 去年おととしかな最近結婚式なんていかないからね
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 元気してんのかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: さねちゃん持ってきたんだったかな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 一瞬で空いてたような気がするけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 確かこの日も天気がいまいちだったんだよね
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ケーキとか全然覚えてないな食事も全然覚えてないな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: どこからかバスに乗ったんだよなどこだったかな元町中華街だったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 何酒だったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 九州のお土産でじゃあ中山さんか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: かたいらしいウエディングといえばかたいらしい感じだったな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 何枚かとったな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 確か奥さんが何の仕事してたっけめずらしいしごとしてたんだよねえ何だったかな
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 何かの研究職薬剤師違う違うもうちょっと珍しい仕事してたんだよな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 法律関係科なんかのあんまり聞いたことない仕事しててのカウンセラーなんかそういうあんまり聞いたことない仕事してた気がする
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 前のカメラだからきれいに取れてないんだね
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 何のお酒高全然わかんない
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421

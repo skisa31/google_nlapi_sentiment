@@ -1,0 +1,132 @@
+Sentence text: おおさね京葉レールランドは人で言ったやつかなかわいいかわいい
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ついこないだねついこないだ似合うねサンタ帽子かわいいな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ぶれちゃってぶれちゃってるけどこの写真結構好きなんだけどねぶれてない方が良かったな
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 友里この上から眼鏡かけてたらもっと面白かったのに
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: また行きたいねえブロンコビリー
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 楽しそう
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: こんなに喜んでくれとは思わなかった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 今年はツリーも出せなくてごめんね頑張って出そうか
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 説明を読む友里ね好きだね説明とか
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 時間で飽きちゃうのね結構歩いたから
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これが一番しっかりかぶれてる写真ね
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: さねの鼻だけちょっと見えてるかな鼻高いから
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ぶれちゃってるやつぶれちゃってるのははちょとね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 小人みたいでかわいいけどね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 何がうれしかったんだろう手か何を持っているんだろう
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ごみを持ってるのさねゆき
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: こればっかりとってご飯の写真あんまり撮らなかったのかな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: なんかちっちゃいな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: おいしそうって言ってたかな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: まだ歯が生えてないときだだいぶ生えたね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: サリが動きすぎなんだよ
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: わーい
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ちょっとこの写真は飽きたなあ飽きちゃった最近だしね
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 動画だと思ってたのかなさねゆき写真だよって言ったのにね
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: あれ帽子一個しかないもう個どこ行ったんだろう
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 人でクリスマスパーティかぶっていけばいいのに
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これいいじゃんめっちゃ真正面向いてる
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 友里が甘すぎて誰だかわかんないね
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これぶれてるやつねぶれてるのはちょっと
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: おんなじ写真飽きちゃうなこれは気に入ってはいるけどとはいえ飽きちゃうな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: お肉の写真も撮ればよかったな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これはさねと二人でぐでたま見に行った時だね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 押そうとしてるのね
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは友里のいい笑顔
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 一年生かな年生の時だ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 測ったパカブだパカブで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: かわいい友里もまだ歯が生えてる途中の奴だね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはこないだの
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ちょっとおしゃれだったけどちょっと大人向けだから子供たち連れていけるのは年後かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なかなかうめく写真取れなかった
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 真正面上からとった方がよかったのかな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これはちょっともう飽きちゃった
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: この写真は好きだけどやっぱり飽きちゃった
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: かわいい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421

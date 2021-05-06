@@ -1,0 +1,117 @@
+Sentence text: これはライブだったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんか絵があったので写真とって懐かしいな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは何回目の誕生日だろうか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはアアメリカに行った時のなんだっけチャウダー
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ちょっとお腹いっぱいなったな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 友達も残してて朝ご飯に食べた記憶があります
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これもアメリカの収容所で楽しかった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: そのアメリカの友達とも結構飲み会もしてて
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これは年前くらいだけど結構飲みに行ったなと思います
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これは野球部のマスコット作りですごく手間のかかる裁縫をして大変でした
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これも野球部の合宿でつぶれて嫌な記憶があります
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これに関してはプレイヤーに喜んでもらえたので良かったなと思います
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは今は洪水で流された人吉の神社です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: とてもきれいでした
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これもきれいでした
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: アメリカのデパートの前で確かとった記憶が
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 街はすごく怖かった記憶があります
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これはどこの海か忘れましたけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: とてもきれいで
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 近くの海だったと思います
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: この海ももさっきの写真と一緒
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: も楽しかったです
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これはトルコライス美味しかったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 甘いコロッケで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはチーズホットドックを先輩と作りましたね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ３．４回作ってめちゃめちゃ作りましたね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 楽しかったのかな
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これはどこああ福岡だから見慣れてる風景
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは長崎で変な建物があるなあと思って撮った写真
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これはアメリカのチャイナタウンに行ってすごく治安の悪さを感じました
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 長崎いった理由としては姉がいるから遊びに行ったって感じですかね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 毎年行ってたなあ
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これは熊本の白川水源で友達と見に行って
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これでイチョウ狩りに行った
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは軍艦島に向かう船でめちゃめちゃワクワクしてました
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは一人ランチに行って恥ずかしいことに注文を間違えてしまったやつですね
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これはちょっといるかが見えなかった
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 見えたけどあんまいい感じに見えなかった
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
