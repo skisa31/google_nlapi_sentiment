@@ -4,12 +4,9 @@ import time
 from glob import glob
 from google.cloud import language_v1
 
-dir_name = input("input dir name: ")
-files = glob("../exp_data/tag_cleared_text/{}/**.txt".format(dir_name))
-counter = 0
 
-
-def main():
+def main(files):
+    counter = 0
     for file_path in files:
         with open(file_path, encoding="utf-8") as f:
             text = f.readlines()
@@ -66,4 +63,6 @@ def analyze_text_sentiment(text_content):
 
 
 if __name__ == "__main__":
-    main()
+    dir_name = input("input dir name: ")
+    input_files = glob("../exp_data/tag_cleared_text/{}/**.txt".format(dir_name))
+    main(input_files)
