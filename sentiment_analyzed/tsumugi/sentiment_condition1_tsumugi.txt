@@ -1,0 +1,141 @@
+Sentence text: あー試合いつのだろう
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: どことの試合だろう
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これでも結構いい席で見てるな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: やっぱいいなー近い
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 行きたいな
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: こんな人いるのがなんか懐かしい感じがする
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 結構前かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 鹿島鹿島行きたいなー
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 試合前かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 鹿島のもつ鍋もつ煮食べたいな
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 夜夜の試合かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あーあこれは横浜だ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これ勝ったんだっけな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 負けたんだっけ忘れちゃった
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 屋台がめちゃめちゃ出てて楽しかった気がする
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: そう駅からそうだ駅から新幹線で一駅だけ乗って行ったやつかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 新横浜
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 元旦のやつ国立競技場
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: でもこれ負けたからな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: まだ試合前だから楽しそう
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 悔しいなこれ楽しかったけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: けどやっぱ試合良かったな
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは楽しかった中国だ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: すごいここのスタジアムに入るのが大変だったけど
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ゴール裏みたいなの久しぶりだったから楽しかったな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: でもすごい遠いなあ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: また行きたいなー
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: あこれはその次の日だ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 川崎の試合
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 今年の初めの広島戦
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これギリギリ行ってよかったなあ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: でもなんかちょっとすごい遠い席
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: みにくそうだけど
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: すごいなんか負けたな
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: さんぜろかな懐かしい
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: この後食べたご飯が美味しかったな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 晴れてるすごい
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ちょっともう一回行ってみたい気はする
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: この旅行は良かった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ここの宿すごいよかったなあ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 音ずっと聞いてた気がするな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: やまた行きたいなー徳島
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: よかったなあ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: この海近くに行けばよかったな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 綺麗まぁ駅から結構遠かったね
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これどこだっけ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ロケハンした時かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

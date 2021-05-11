@@ -1,0 +1,99 @@
+Sentence text: ああなるほどな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 上手に作れてるねこれは
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: すごいなあうん
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 粘土何個あるんだろうなこれ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: へえ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 子供の
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 子供の覚える力ってすごいよなあほんと
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: また今度買ってあげよう粘土は
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああ昔あれかクアラルンプール行ったときのやつかこれ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: はいはいはいはいああマレーシア行ったときのやつだこれ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ああなるほどなるほど
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 懐かしいなあこれ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああこれもマレーシアか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: そういえばこの漫画読むの忘れてたな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああはいはい
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ああこれしばらくこれ使ってないなあそういえば思ったら
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 使ってみよう今度
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああこの本もちょっと漫画読みたいからこれも今度読もう
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: うん週末に使って飲もうこれは
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: とりあえず忘れないようにこれはメモっておこうまずは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああしばらく思ったら海外行ってないな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: たしかに
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: まあいいや今度ちょっと引っ張り出して洗おうこれは
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああこれもそういえばそうだな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: まあでもしばらく使う機会ないからなあこれ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: うんこれはまあ引っ張り出そう
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 一旦
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: もうどんくらいいつからあるんだっけなあこれ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 年以上使ってない記憶あるなこれ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: クアラルンプール
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896

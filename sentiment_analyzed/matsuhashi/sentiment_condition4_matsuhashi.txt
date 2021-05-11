@@ -1,0 +1,225 @@
+Sentence text: 親友とのツーリング
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 長野の喫茶店
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 外の景色と中の電球がいい具合で思わず写真を撮った
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: もう回行きたい
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 道中雪に降られてた写真
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 記念の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 諏訪湖で諏訪湖の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 風が強かった
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: すごい晴れてよかったねってお互いに話ししてた
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 親友と仲直りできてよかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは喫茶店を出た時の太陽の当たり方がきれいで思わず撮った写真
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ツーリングの道中
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは八ヶ岳らへんから伸びる雲がすごくてスケール感があってよかったなあ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: もう回行きたい
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 思わずわざわざ止めて写真
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 車山高原で撮った写真だったと思う
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 雪がちらついてる
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 喫茶店の中から撮った写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 外は雪景色だった
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ケーキが美味しかったな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: コーヒーもケーキももう一回食べたい
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 霧ヶ峰高原
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 前回親と行った時はグライダーがあったのに今回なくて残念
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 親友にも見せたかった
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: うーんとこれは車山高原の帰りか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: とりあえず寒かったなあ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: でもケーキとコーヒーは美味しかった
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: なんで写真撮ったんだろうか
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 雪がちらついてたわけではなかったなこの時は
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: まあとりあえずなんか写真を撮ろうと思ったんだな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: コロボックル
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: そうだなこれどっかのアニメの少女が立ち寄ったって言われてる喫茶店だったな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーと前を歩いてるのは親友であまりにもドラマチックな光景で思わず写真撮影
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 大切にしたい写真
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: サイフォンコーヒー飲み方を店員に聞いて恐る恐る違うかなと思いつつやってみてる写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ああ甲州街道ずっと走って夜中に到着して思わず和んでるところの写真
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 朝の白樺湖の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 寒かったな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: もうちょっと白樺湖で写真撮ればよかったな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: でもちょっと雲の具合が微妙
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ビーナスライン標高
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: すごいとこ走ってたな
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: よく凍結しなかったな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 横転事故なしでいけた
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: やっぱりスケール感がすごいなあ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: もう回この景色を見てみたいな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: でももう走れないんだろうなぁ凍結がすごくて
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これは霧ヶ峰高原の全体
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 道の駅かなんかが見える
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ええ諏訪湖の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ちょっとかわいそうな写真だけどこれは
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: まあでも雰囲気があるから撮った
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 喫茶店のああこれなんだっけな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: チーズケーキだな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 美味しかったんだけど
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: サイフォンコーヒーがすごく印象に残ってる
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 霧ヶ峰高原で別ショットを撮った写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 夏っぽいけど冬だなぁ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: こういう写真が好きなんだなあ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: つくしが原までキロ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 行けず残念だったな
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 通行止めだったからな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: でも全然いなくてよかったな他のバイクとか車が
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 帰りに撮った写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: かなりいい思い出しかなかったな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: すごく楽しい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: また彼と次はどこ行こうか計画中
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ええ熊笹が生えてるかな熊笹かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 森林限界くらいのところかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ビーナスライン
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: windowsXPの壁紙みたいなところ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 標高メートル
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なかなか夕方撮ったんだっけなあ
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: なかなかエンジンがちょっと薄くて酸素が薄くて回らなかった記憶がある
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612

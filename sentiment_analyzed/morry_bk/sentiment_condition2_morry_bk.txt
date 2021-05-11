@@ -1,0 +1,162 @@
+Sentence text: はいえーと広島の宮島ですね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 大学の時の友達と一緒に
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: １年前ぐらいに行った時の写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 宮島に行ったのは私は回目か回目ぐらい
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ちゃんとまともに見たのはこれが初めてだったんで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: すごく新鮮だったなぁと思ってます
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ただこの時は大きな鳥居が工事中で囲われてて見えなかった
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ちょっとそれが残念だったかなと思うんですけど
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 時間かけてゆっくり見れたのでよかったかなと思ってます
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: そうですね宮島の周りも散策しましたね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: お寺も結構いくつかあって
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 小さな宮島って小さな島なんですけど歩いて
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 山の上の方に登っていくとまたいろんなお寺があって
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これはキッザニアですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ガソリンスタンドの店員に子供が擬似体験
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは流行りのタニタ食堂に
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 初めて行った時の写真ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: はいこれがそのタニタ食堂に行った時の食事
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 食べた定食ランチですかね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは新幹線でご飯お弁当
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 食べた時の弁当のカロリーと塩分を気にしてるので
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: それを写真に撮って記録的というかメモというか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 結構新幹線で食べたお弁当の写真はよく撮ってますね
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これナトリウム１３５９ミリっていうのが
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 三国志の映画見に行った時の券ですね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 一人でふらっと見に行ったんですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがえーとでディズニーランド３年前ですか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 年休暇で行ったんですかね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 三泊四日ぐらいしたのかなはい
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 子供たちのためにファストパスを取ったという感じですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは三國志の映画ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 結構期待して見に行ったんですけれど
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 笑えるかなと思ったんですけれど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えーとーはい
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 新幹線で食べた時のお弁当ですね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: このご時世なんで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 映画館はガラガラではないですけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: お弁当これいつだ２年前てことか
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: よく東京に行くとどうしてもお弁当買って
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 食べないといけない時間になってしまうので
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: よくできるだけヘルシーなお弁当をと
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これえーとお風呂の写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: お風呂を風呂場を改装
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 改修しようということで
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 平日休み取れた時に
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 映画せっかくだから見に行こうかなということで
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 前売り券を買ったんですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これカロリーは５３７キロですかね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 割と低めですね一食あたり
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 通常大人だと二千円くらいするのかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 前売りだったので千五百円で見れましたね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ディズニーランド
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ９時２５分のファストパスなんで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 割と早くから入って回る順番は
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

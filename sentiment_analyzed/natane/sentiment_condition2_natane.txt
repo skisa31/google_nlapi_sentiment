@@ -1,0 +1,177 @@
+Sentence text: うんとこれは車を買ったときにホイールを見たらちょっと剥がれてて
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: まあ中古車だしこんなもんかって思った写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっと夏の間に庭でバジルを育ててみたんですけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なぜかジェノベーゼが思ったように作れなくて
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: なんでだろうってなった写真ですね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あれはなんだったんだ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは旅行先で
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えっと抹茶のパフェを食べた写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 今思えばなんかパフェばっか食べてますね僕
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっとこれは何だったかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: もうえっとそうだ登山する前に寄った神社ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: まあなんか登山する前は神社でお参りするっていう風習があるらしいです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは九州の親戚の家に行った時に
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっとちょっと観光に寄った鵜戸神宮ってスポットですね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これはハイ登山前にお参りしたっていう写真です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: でっかい杉の木がたくさん生えてました
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これは同じく車のホイールの写真です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 結局冬スタッドレスにかえるんでホイールは変えちゃいました
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: よく見るとがっつり剥がれてるっていう感じですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ちょっとこのホイールはどうしようか今迷っています
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: はい
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 特に良い思い出でもないんでって感じですね
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: うんなんでこんな剥がしちゃったんだろうな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: はいよく見るとタイヤもかなり劣化してますね
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: はいタイヤも買い替えました
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: うん
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 特にえっと感情が湧いてこないですね
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: うん
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: まあこう何回も見せられても
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: しょうがないっていう写真ですねはい
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああ戻ってきた
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えっとこれはなんか抹茶の有名なお店のパフェらしいんで
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: そこそこ美味しかったですね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 量もちゃんと適度な量でした
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: はいああこれはバーベキューで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 釣りで釣れた魚を焼こうと思ってたんですけど
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 全然釣れなかったんで結局スーパーで肉を買って焼きました
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ああこんな写真も入れてたのか
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これはあれですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 卒業式があるはずだった日の写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーとこれは新年にえーと湘南の方に来た
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ランニングして富士山を見て帰ってきたって写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: おおこんなのもあったんだ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: すごいなんか正月って全然雨降る日がないですよね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 毎回天気が良くて
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ただコロナなのにサーファーがたくさんいました
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これはもう特に説明することはないです
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: うん
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ここはやっぱり人は少なかったですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 例年ならたくさんいるのかなどうなんだろう
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここは宮崎県なんですけど
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: そんなコロナコロナいってる時じゃなかったような気がしますけど
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 全然人いなかったですね
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ここは宮崎県のさっきの神社も結構近い場所で
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: なんかモアイ像が立ってるんですね
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: イースター島となんか繋がりがある場所らしいです
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これ何枚撮ったんですかね僕
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: うんまあなんか海辺にある神社なんで海を見ながら参拝できる
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579

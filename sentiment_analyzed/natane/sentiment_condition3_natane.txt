@@ -1,0 +1,177 @@
+Sentence text: この写真は何だったかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えっと春頃親戚の家からなんかマンゴーが送られてきたっていう写真ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは何か
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あ変わりましたね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは友達とえっとご飯に行った時の写真ですね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なんかパフェが高かった割には
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: あまり美味しくなかったっていう思い出があります
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは初めて車中泊した記憶で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 思ったより買った車が広くてまあなかなか快適でしたね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ちょっと今の時期はできないかもしれないですけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えっとあこれは今住んでる新しいあのアパートのキッチンの写真ですね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ちょっとキッチンが狭くてなかなか
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: あえーと次が
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっとこれは誕生日だって言うんで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 一人寂しくケーキを食べた写真ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 今度は
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっとちょっと料理してみた写真かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんかあんまり美味しくなかった気がします
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: うーんとこれはちょっと何の写真かわかんないですね
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: なんか鍾乳洞かな鍾乳洞とかいったのかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: まあなんかよくわからんって感じですね
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: いいかなうん
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ちょっと長すぎてもあれって感じですが
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: うん何だったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 多分すごい結構前の写真なんだよな
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: うーん思い出せない
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: あやっと変わった
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは家でおでんを作った写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: うんとまあなんか店で食べるほどには美味しくならなかったですね
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ああとこれは釣りに行って釣れた魚を料理してみたっていう写真で
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: なかなか釣りが楽しかったんでいい思いですね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: おこれも同じく料理で
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: まあなんか男めしって感じですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: まあでも僕餃子好きなんで普通に週一くらいで食ってますね
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: えーっと
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これはまあちょっと気合いを入れてカレーを作った写真ですが
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: カレー以外には何もないって言う
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは中古車で車買いに行った時に
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ちょっとした周りの写真撮った写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 特にチェックしただけなんで見てもって感じですが
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これが例の新築のちょっと狭いキッチンですね
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: まあこの頃は綺麗ですね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これはあすいませんさっきと同じような写真が入ってんのか
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: まあ特に言うことはないですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あーこれはちょっと家電を見に行った時に電気ケトルを買おうかなと思った写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: まあなんかこうやって家電を見ながらショッピングするって言うのもなかなか楽しいですよね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: あこれはあのあの新居のトイレですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あのウォシュレットが付いてなくて
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 今でもついてなんですけど
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: なかなか寒い時は困りますね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーとこれは何だったかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えっと見えないですけど確かスペアリブを料理した写真でまあまあ美味しかったです
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ああこれはええと先輩社員に連れて行ってもらったそこそこ高い料理なんですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: このなんかハンバーグハンバーグみたいのがすごい美味しくて
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 記憶に残ってます
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えーとこれは宮崎の親戚の家に行った時にカツオ食べたっていう写真ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: すごいなんか豪勢なカツオが出てきておいしかったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 同じく宮崎で動物園みたくみたいなところで亀を見たっていう写真ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: はい同じくです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

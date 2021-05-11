@@ -1,0 +1,138 @@
+Sentence text: えっとこれは河口湖の花火で
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 夫と夫の友達と一緒に見に行って夜遅くまで花火が終了するまで写真を撮っていました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっとこれは富士五湖の方のえっと氷が張るので有名な野鳥の森公園の所の近くの氷です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この他にも色々なえっと氷のオブジェがありました
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ここもその主人のお友達と一緒に行きました
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ここもその同じ公園の中の氷のお家のところです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: こ の年だけではなくて他の年にも何度か行っていました
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ここも同じく氷のオブジェです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 毎年色々な
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: あここもえっと野鳥の森公園の入り口でこの中に湖とあと氷のオブジェがたくさんあります
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ここもそうです
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ここも色々広くて中にセンターみたいなところがあって売店などもあります
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ここも同じようなところです
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: この中を散策してました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここも同じく氷が
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 水をかけてオブジェを作るらしいんですがそれがいつも毎年すごく綺麗です
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: この時富士山がよく見えていたので写真をとっていました
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: お友達もいたんですけれども私と夫は先に別の次の場所に行ってお友達もあとからみんなで車で来ました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここも同じ氷のオブジェがあるところで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: その時富士山がとてもよく見えていました
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ここもの近くの富士五湖です
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: もしかしたら違うかもしれないですけれども夫と一緒に来ました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここも富士五湖ですその時も
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 毎回行くと富士五湖を四つか五つ回って帰ってくるんですがこのとき
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これも富士五湖の一つで夫と一緒に行きました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここも富士山がずっと見えていたので写真を撮っていました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここは川口湖のそばのホテルの前の駐車場でそこを半周ほど歩いていました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここも夫といったところで
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えっと神戸のルミナリエの時に来ました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここも夫といったところで神戸のルミナリエのところ時の居留地の近くだと思います
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ルミナリエの点灯する前です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは河口湖の花火です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 花火の始まる前からずっと場所を取ってました
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは自宅です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは以前に撮った自宅の部屋の一部です
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: も元気でした
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: えっとこれは頂いた晩白柚が大きかったのでみかんと比べてどのくらい大きいかを試す示すために写真を撮りました
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ここも夫と行ったお寺です
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 坂東三十三ヶ所を巡っていたのでその時の写真です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは自分が焼いたチーズケーキです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: そのまま撮ったら何かわからんかったので一切れ切ってみました
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 上にアプリコットジャムを乗せ塗っています
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは川口湖の花火の写真です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 昼間からずっと取っていたのですが
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 昼間から場所取りをしていました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは主人と
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

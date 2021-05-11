@@ -1,0 +1,186 @@
+Sentence text: これは京都のえーとどこだっけ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: お寺だな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは奈良ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 奈良の平城京平城宮跡地ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これ奈良これも奈良だな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 東大寺ですね大仏さんのところですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 家族で行った日帰りで行ったのかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 平城京これ自転車で家族４人で行ったんですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 奈良の市内を自転車でぐるぐると
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは京都の水族館かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: まだ出来てすぐぐらいの京都駅のすぐ近くにある
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これはねえーと
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: この息子といったなんかフェスというか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 見本市みたいなアニメ系とかゲーム系の見本市
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これあの声優の神谷明さんですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 吉祥寺の公園でイベントがあって
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: お会いした時の写真ですね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: キン肉マンの声優ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: もうかなり高齢な方です
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: まだ現役で小学校の先生とかもやられてるんですかね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: お元気な方ですね
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 息子がまだ小学校何年生だろうな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ２３３年生２年生ぐらいですかね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがね年生の時の小学校の運動会かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これも東京にいる時に
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: そうですねこれ神谷明さんで
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: えーと吉祥寺の井の頭公園って公園があるんですけど
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: そこでイベントがあって
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これ小学校の運動会で
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えっとー小学校が社宅の近くで結構綺麗な小学校
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これがね東京にいる時に行った箱根ですかね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 箱根のピカソの美術館
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 京都水族館ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 横に長いこう本当に線路沿いって感じで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 東大寺ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 芝生が綺麗で天気もいい時に
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 自転車で移動するのもすごく気持ちが良かった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これはどこだ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えーとどこかの水族館なんですけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えーとこれは娘といった海遊館かなぁ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これ東大寺ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 大仏さん私は何回かみたことあるんですけれど
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 子供達見たのは初めてだったんじゃないですかね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 平城宮は今またなんか新しいのができてるみたいですよね
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: この時はこのえー大極殿って言うのかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 門みたいな感じですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 広大な敷地の中にポツンと立っている感じ
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 東大寺は中をこうぐるっと一周したのかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーと大きな柱
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは宮島ですね広島の宮島
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 大学の時の友達と一緒に１年ぐらい前ですかね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 平城宮の跡地に行ったのはもう何年前なのかな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 子供達が小学校だから１０年近く前なのかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 水族館はなんか娘が一時期ハマってたんですよね
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 色んな水族館に連れて行った記憶がありますね
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これはなんなんだアシカかラッコかなぁどっちだぁ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 京都の水族館は
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーとペンギンとかが見応えがあったなと記憶してますね
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 奥の方に
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは運動会中学校の運動会かな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 今ではねあんまやっちゃダメって言われてますけど
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ピラミッド４段ぐらい
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

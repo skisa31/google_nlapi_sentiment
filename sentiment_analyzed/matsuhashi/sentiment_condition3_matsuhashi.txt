@@ -1,0 +1,213 @@
+Sentence text: 母親
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 楽しいクリスマス
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ああ懐かしい
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: どこだっけな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 場所はあんまり記憶ないな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: うーん同じく母親と行った場所
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 人が多かった記憶があるけど覚えてないなあ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 山梨ほったらかし
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ツーリングの最中
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 親友とのツーリング
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 母親
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: クリスマスの時期だったかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 場所は覚えておらず
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ああこれ先日の長野のツーリング
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 親友とのツーリング
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 雪を心配したけど降らなかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 登山の趣味の時代の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 一人で登った気がする
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: あーこれは先日の会社の同僚とのツーリングの写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 埼玉の奥地
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 同僚の写真
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 名栗湖有間ダム
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 親友とのオートバイツーリングの道中の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 楽しかった寒かった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 長野諏訪湖
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あこれはだいぶ前の営業職時代
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 休憩の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 三好さんていう人が相棒で楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは親と行った時いや違うな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 親友とのツーリングの時のカメラの操作間違いでとったやつ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: あこれは親と言ったやつ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: わんぱく広場
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 場所が思い出せないどこだろ
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 山梨かなほったらかし
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 回目見ても思い出せず
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ただ楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 親が若かった
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 人生で初めて買った車
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 団地住まいの時
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あこれは長野のツーリング
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 親友とのツーリングで楽しくて晴れてた
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 良かった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは登山の時の道中の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 一人で登ったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 楽しかったな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは台目の愛車の洗車中の写真です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この時代は楽しかったな
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 好きな車乗りまわせた
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これは仕事中に起きた事故
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 八王子ジャンクションの横転事故の写真
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは営業職時代の栃木の
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 宇都宮ミーティング行く最中の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 楽しかった時代
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 親が若い
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 今と全然違う
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 場所は思い出せず
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 冬の時期
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あこれは年前の親と行ったドライブの写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 長野ビーナスライン
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: あこれは今喧嘩別れしてしまった友人との陣馬山の頂上で作った写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは長野の親友との先日のツーリングで寄ったカフェ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 楽しかったケーキが美味しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 営業職時代の打ち上げの写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ソフトバンクの新井さんがいた
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは営業職の最終日の相棒からのいたずらの写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これで電車に乗った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: <END>
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

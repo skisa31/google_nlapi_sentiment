@@ -1,0 +1,222 @@
+Sentence text: 仕事納め
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 仕事納め
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: キーボード解体
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 年間疲れたが
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 水族館の写真だったと思う
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 小さいクラゲ
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 家族で行った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 遠かったが開放的で気持ち楽しい記憶がある
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 人が多かったうん人が多かった
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 少し疲れた疲れた
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 綺麗だった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: クラゲの写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 人が多かったがとてもクラゲ自体は綺麗でとても面白かった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 少し遠かったので疲れた記憶がある
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 疲れと楽しみが
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは仕事の途中で撮った写真で
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: この後みんなで飲みに行ったので
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 楽しかった記憶がある
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: えーと近所の陶芸教室のトトロの写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: とても綺麗だったが少し遠かったので疲れた
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 仕事納め違うな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 神社神社清掃の時みんなで行った時の写真で
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 一年の終わりで
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 仕事帰りに入ったドトールの写真
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 締め切りがかなり迫っており
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: あまり良い記憶がない
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 母校の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 仕事で行ったが
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 難しい案件ですごく難しい気持ちになる疲れた
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 駅のイルミネーションの写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 今年撮った記憶がある
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: とても綺麗だったが
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 陶芸教室に行った帰りの畑田んぼの写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: とても綺麗だったのですごく撮った記憶がある
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 母校の写真で難しい案件だった
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 全体的に老朽化
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: どうやってやればいいかどう設定すればいいか悩んだ記憶がある
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 仕事先で撮った目黒川の桜の写真
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: とても綺麗だった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 春暖かい日
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 仕事で撮った外壁の撮影時のセットの写真
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: カメラが好きなので面白かった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 神社清掃後の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 葉っぱがたくさんあったがとてもみんな綺麗にしてくれたのでとても良かった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 一年の終わりでとても清々しい気持ちになった
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 仕事帰りに撮った写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 案件がかぶって重なって
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 刺激も沢山あってすごくつらかった記憶がある
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: まだ終わってない
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 母校の塀の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この調査をしなければいかず
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: とても難しい案件だった記憶がある
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 大変だった締め切りもタイトだった
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: PCR簡易調査所の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 偶然撮ったやつ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 家族で行った近所の幼稚園の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: みんなで楽しく一日を過ごした
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 楽しかった良い日だった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 暖かくて面白い日だった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: すぐご飯も行った
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 仕事帰りに取ったバイクの写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: かっこいいからとったが
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: お散歩途中の写真でちょっと面白かったので撮った
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: カメラが写真が好きなので良いショットだった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 江ノ島の写真でみんなで楽しく散歩をしたが
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ちょっと人が多かったので
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 時節柄少し心配になった記憶がある
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 講演会の花の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 望遠レンズで一枚切り取ったものでうまく撮れたのでよかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 講演自体はつまらなかったが
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 写真の出来にはすごく満足している
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: とてもうまくいった写真でお気に入りだった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: でも講演はつまらなかった
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071

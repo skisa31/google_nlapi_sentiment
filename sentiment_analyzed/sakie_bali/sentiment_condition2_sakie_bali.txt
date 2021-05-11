@@ -1,0 +1,207 @@
+Sentence text: えーとサッカーの観戦のバーで見てた
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: でかいモニター
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: なんかこれこん時勝ったんだっけな
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: えーとこれが最近行ったミスターdiyっていう
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 何かあの中国製の商品をたくさん売ってるお店
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーとこれ今もう潰れちゃったお店かな
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なんかあの麺麵のお店ラーメンとか食べたような気がする
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: うーんあんま美味しくなかった
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これがキッチンツールとかを売ってるお店かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここのデザインがすごい可愛かったけど
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 買おうと思ったけど高くて全然買えなかった
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これがミーのミーミーって言ったらあれか
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えーと麵のバリ島で食べれる麺のお店
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: えーこれがあれだ
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: マレーシアに行った時のモスクの写真かな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あんまりあの一緒に行った人が
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 今も喧嘩しちゃってあんまりイメージない
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これがドラゴンフルーツか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 友達の家で撮ったドラゴンフルーツの写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがいつの時のケーキだっけな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: たぶん誕生日
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 誕生日の時とかに食べたケーキかな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これが友人の家で採れたえーとドラゴンフルーツ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 中切った時になんか白白だった気がする
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これがバリ島のイベントの時に飾られる
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ペンジョールっていう飾り物
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えーとこれが
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 近所の店で食べたチョコレートトースト
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: なんか全然美味しくなかった
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これがえーとゲーウェーカー
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ガルーダウィスヌクンチャナ像
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: めちゃくちゃでかくてバリ島のどこからでも見えるくらいデカい
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: えーとこれがうーん
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あれだバリコレクションだ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: バリコレクションにある
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えーオブジェ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これがキッチンツールを売ってるお店
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 場所がウルワツだったけかなのお店
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーこれがエースだ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ブタンのエースの写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この時に自分のヘルメットが盗まれちゃったから
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ちょっとあんまりいい思い出じゃない
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これがヌサドゥアのピザ屋さん
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 友人達と大勢で行ってすごい酔っ払った記憶がある
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これが近所の
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 近所のカフェの朝食昼食の写真
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これがえーとなんだっけ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ナツメヤシの実すごい甘いやつ
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: なんか結構カロリーが高い
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これが市場で買ってて
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: バリの市場で買ったやつの写真かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これでだいたい二千円ぐらい
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これが今時っていう蕎麦屋さん
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは旦那が食べたやつだ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: かき揚げなかなかそば食べる
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これがブタンのバサール市場で買ったアイテム
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 茄子が十円ぐらい
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: すごい安い
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これがバリ島に移住した当日の写真
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 機材とかがめちゃくちゃいっぱいあって大変だった
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがえーこれどこなんだろうな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: バリ島じゃないのか
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これあれだ日本の代官山原宿
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これが旦那が私の誕生日に買ってくれた
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: バランスボールか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: バランスボール
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 使ってそろそろ運動しなきゃ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あんま使ってない
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: でこれがえーと
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
