@@ -1,0 +1,111 @@
+Sentence text: ああうん楽しかったなあまたこれうんやりたい
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: いやいい経験をしたかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 子供たちにとってすごい良かったかな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: いや去年はできたのにね
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 今年もやっぱやりたかったな
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: いや懐かしいやっぱり夢のような時間かなたのしかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: うんまあうん夫婦で行くのもいいのかな
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 年とるとこういう時間も大事かなやっぱりね
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは毎年やりたいな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: いやうんがんばれーずっと応援したるから
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: おおなんでこんなかっこするんだろうね
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 不思議だけど結構そういうところは嫌いじゃない
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 寒かったけど結構きれいでした
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 家族でこうやって過ごすの大事だな
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 懐かしいすごい懐かしいすごい気が引き締まる
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これねもうライフワークです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この度にやることが逆算で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これね後輩たちが頑張ってる
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これがあるから子供たちの成長が分かる
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: マイナーなスポーツ万歳
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これね毎年行くんだけどいい場所だよねこれ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これはねえスタッフじゃなくて参加したかったかな
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: でもやっぱりずっと応援したるよね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: かっこいいよ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: やあいいね初めてのラグビーだったけど雰囲気でこんなに盛り上がるのかなって
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ひなびた宿最高とてもいい仲間だ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これも懐かしい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 頑張ってる若い人たち応援したい
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: また一緒になんかやりましょう
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これはまあ恒例行事で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: お祭りなくして我が家はないかな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: うん家族でね協力してたまには
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 面白かっためっちゃ楽しかった懐かしいこの子たち頑張ってるかな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: やっぱりね食いつくわこれ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 個性だねそれがあなたの個性
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: お相撲さんじゃないんだけどね
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: おおそうねえ好きな場所で好きな人たちとってのはいいよね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421

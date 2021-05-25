@@ -1,0 +1,114 @@
+Sentence text: うんそっかそかあ何年ぐらい経つかないいよね
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これがきっかけだったんだよね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これもよかったな頑張ってる仲間見に行けてよかったかな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: うんうんそうだねいつもの風景になってきたなあなんかね定位置
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: うんいいよねでもま回目はいいかなっておもうよね綺麗
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: そうねいやなんかもういつもも行くところ過ぎてでも好きな場所
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: うんそうだね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: うんそこにいる窓を開けたらそこにいるって感じでもうパロディもう
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 現在の感じかな今の姿
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ここも二回目以降はいいかな一回目はきれいだよ楽しいよ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは来年もやってほしいな
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 皆企画するところから大変だからね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これねとりあえず寒かった
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 馬を見たい今度は
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: おおテンション上がるねこれは懐かしいニカラグア
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: うん結局収まりきらないし
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これはまあいいかないつでも見れるし生活の一部
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 安定のまあちょっとかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: もうちょっといい顔すればいいのにね
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: うれしいい大好きな先生
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 一人病気でこれなかった先生いるから気がかり
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これね今度はもうちょっといい顔しよう
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: でもまこっち向いてくれたからいいけど
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 行くとこに行けてね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: いい赤ちゃん生んでください
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: やっぱいいね気が引き締まる神社
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: もうちょっと笑えばいいのにねしぶしぶって顔してるけど
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ついこないだなのにすごいあっという間
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これもそん時で何気にこの子とはあちこち行ってるは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんかありきたりだよね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 結婚式ってこんなもんかい
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: まあまアーバンな感じですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: もうちょっと企画を充実させてほしいわ
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 毎年行ってると夏になると行かなきゃと思うな遠いけど
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: どうしてんだろこの子達まあフェイスブックとか見ると野球やってるしそれだけ絵もうれしいわ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: よくよく考えるとこれ試合出れてないからね
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 控えでアピールしてるけど結局できない
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: まあでもこれはね
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
