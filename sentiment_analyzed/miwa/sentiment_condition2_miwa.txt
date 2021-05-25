@@ -1,0 +1,156 @@
+Sentence text: えーお正月
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 出先カフェ二宮金次郎
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 寒かった
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 習い事での陶芸体験
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 作品
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 楽しかった普段できない体験
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 高尾山の山の上
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 人が多いとても疲れた
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 後はそうだな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 人が多かった少し心配になった
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 子供も多かった
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: いい天気だった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: リフレッシュできた
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 緊急事態宣言が出そうな気がした
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 人が多くて心配になった
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 仕事帰りのえー店の前
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 思わず撮ってしまった写真
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: すごく疲れていた
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 夜
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: お腹が空いていた
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 締め切りに追われていた
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 陶芸教室で見た
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: よくわからないものに興味が湧いた
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 恐竜展に行った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 普段なかなか見れなかったので楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: とても人が多かった
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 陶芸教室で見たよくわからないものにすごく興味が湧いた
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: とてもいい体験だったみんなでいった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: でも少し疲れた
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 陶芸教室の帰りに見た田んぼの写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: とても綺麗だった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 当たり前の風景だけどすごく綺麗だった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 陶芸教室うーん
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 陶芸教室でみたよくわからないものの写真には興味が湧いた
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 近くにあるトトロの陶器があったので思わずとってしまった
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 可愛かった
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは夜勤明けに撮った記憶がある
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 近所の家に着いていた人形の写真疲れていた
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: こっちかこっちか
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 仕事帰りに飲んだドトールのコーヒー
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 締め切りに追われていた
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 近所にあるトトロの陶器の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: みんなで行った秋だった
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 楽しかったけど締め切りに追われていたので
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: それが少し記憶に残っていた
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 場所を覚えていないがかなり昔に撮った写真
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 近所の森だった気がする春
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 山形県のとある民家の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: プレゼンをしなければいけなくて緊張していた
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 陶芸陶芸教室で作った作品の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 普段できないことができてとても楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 公園公園じゃないか
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612

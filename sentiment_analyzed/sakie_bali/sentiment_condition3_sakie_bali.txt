@@ -1,0 +1,219 @@
+Sentence text: これは五つの宗教が横に並んでいる
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 建物がいっぱいあるところだ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: えーとこれはドリアンを初めて食べたときのやつ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: めっちゃ臭いけど
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: でもすごい気に入って好きになったやつだ
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 結構柔らかかった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 熟れてるやつだったから美味しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: また食べたい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これがさっきのえーと宗教か並んでるところかな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: この門のやつがバリヒンドゥー教で
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これがガルーダウィスヌクンチャナの像を作ってるところのやつかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 今も完成してるけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーとーこれが東京モーターショーかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 車が好きだから
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: いつも毎年行って多少
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: えーとこれが
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーとバリ島のサッカーの観戦ができるスポーツバーで食べたやつ
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これがジンバランのビーチで
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 撮影練習をした時の写真かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがゲーウェーカーの建築途中のやつ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 今完成したけど
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なんか作るのに何年かかったんだろう
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 十六年ぐらい
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがえーとナツメヤシだけかな
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: クルマっていうフルーツの
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: フルーツか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがおぼおぼおぼおぼって言う祭りで
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: パレードしてるやつ
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 怪物みたいなやつをなんか持って練り歩くやつ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これがバンガローに泊まったところで撮った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: プルメリアのお花かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この花いっぱいバリに咲いてるから
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: あちこちでいつも写真撮る
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これがペンジョールっていう
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: お祭りの時に飾る
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 飾りかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 下から撮ったよ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーとこれがバリのムサドゥアで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ムサドゥアにあるピザ屋さんで食べたピザ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: めっちゃデカかったやつ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これが近所のお店で食べた朝ごはん
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: めっちゃ美味しいやつ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 高いけど
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これがおぼおぼ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: おぼおぼのパレードやつ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: お姉さん達がカメラ目線で写真に写ってくれた
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これがゲーウェーカー
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あの大きな石像がある所の
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 所の観光客が遊べる所かやつ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 今使ってるワコムのペンタブレット
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: すごい使い勝手がいいやつ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これが友人と行った何料理の店だろこれ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 西洋料理
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: なんかヨーグルトとかで味付けされてるやつ
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これがえーとバランガンに行くまでの道にある
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: スムージー食べたお店で注文したラッテ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがえーとプルメリアの花かな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: バンガローで撮ったやつ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがウルワツにある
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ホームメイドホームメイドじゃないな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: キッチンツールとか売ってるお店
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 結構高い高めのお店のやつ
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これがバランガンにあるお店で食べたスムージーボール
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: めちゃくちゃ量が多くて
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 途中からもう気持ち悪くなって
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これがえー水彩画教室行った後に家で書いたやつ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ビールBINTANGのやつ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これが水彩画教室で書いた絵のやつかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんか結構最初の時は滲んじゃってて
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 上手くかけてない
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これが家で描いたやつ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あの紙がぼこぼこしてるやつを買ったから
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 結構なんか質感が違ってかけて面白かった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421

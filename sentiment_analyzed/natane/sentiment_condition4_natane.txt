@@ -1,0 +1,162 @@
+Sentence text: えーっとあそうこれは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっと年末に帰省した時にあれですねうんと何か美味しいレストランに行ったっていう写真です
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは旅行中にえっとなんか味噌みこんにゃく田楽みたいなやつを食べたんですけど
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: やたらとサイズがでかかったっていう写真です
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは例のあれですね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 旅行先で温泉に入ったっていう
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 町の中に点々とこういう温泉のところがあってね
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: ええとまあなんかいろいろ巡りながら入るシステムになってました
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ただどこもなんか源泉なんで熱い
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ええとこれは友達とハンバーグハンバーグ屋さんに行った時の写真ですね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なんかさわやかの系列系列じゃないな似たようなお店です
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これもさっきのとこですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはえっと今年登山に行った時に
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 登山する所の入り口に立ってた鳥居ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この奥で入山届っていうのは書かなきゃいけない
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 実家から味噌カツが送られてきたっていう写真ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ちょっと一人暮らしなのに十枚も入ってたんで食べきるのにめっちゃ苦労しました
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これはなんか一緒にステーキが送られてきて
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ステーキを焼いて食べたときの写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ただなんまわりに余計なものが写っちゃってますねはい
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは料理する時にレシピを撮っとこうと思って
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これ撮ってスーパーに持ってって
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: とりあえずそのまま買って後は調理器に入れて料理したっていう感じですね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは去年の卒業旅行かなんかの時にええと九州に行って
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 大分の別府温泉のなんか地獄巡りみたいな観光に行って撮った写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはなんかここはお風呂入れないですね
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ああこれはまた料理のレシピをメモっただけっていう写真ですね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 特に思い入れという思い入れはないです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーとはこれははい大分の写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: はいうーんはい特に特になしって感じです
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これはあそうか正月に正月じゃない年末に
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーとおいしいレストランに行ったっていう写真ですね
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: なかなか行く機会がないので
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは夏ぐらいにええとまあコロナもあって一人で旅行したっていうところで
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: まあなんか豪勢に飯食いました
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これははいええと
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 親戚から送られてきた味噌カツです
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: なんか焼くだけで食べれるんですごい調理は楽だったんですけど
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これはバーベキューセットを車に積んだのはいいものの
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: コロナの感染が拡大されして持っていけなかったっていう
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これは親戚から送られてきたステーキを食べた写真ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: はいなんかステーキに合うお皿がなくて
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ちょっと全然映えない感じになりました
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは新しく買った調理器具でちょっとスペアリブを煮てみたっていうです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 同じくステーキです
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 今思えばもうちょっと上手く焼けばよかったっていう感じですが
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: はいえーと旅行先でなんかこんにゃく田楽を頼んだら
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: こんにゃく丸々一個にただ味噌がかかってただけで
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: まあ美味しかったですけどでかかった
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これが埼玉のフライングガーデンっていうお店で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんかさわやかと似たようなお店なんですよね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 結構美味しいっていうハンバーグ屋さんです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: えーっとこれは入りますね病院
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: <END>
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

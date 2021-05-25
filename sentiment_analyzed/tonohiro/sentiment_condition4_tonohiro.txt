@@ -1,0 +1,120 @@
+Sentence text: えっとこれも主人と一緒に行ったところだと思います
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっと石の有名な石を切り出す有名なお寺です
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えっとこれは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっと大谷観音でえっと説明する女性の方が何人かたまったところで説明してくれました
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これも夫と一緒に行ったところです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: お寺めぐりの三十三箇所の一つです
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これも夫といったところで
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: やえっと山中湖だったかと思います
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これも夫といったところでお寺で階段をすごく上ったところに御朱印帳の場所があってそこでもらいました
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これはこれも夫と一緒に行ったところで
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: えっとコンビニの所から参りました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これも
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えっと階段木の階段があってそこ登ったところで御朱印をもらうんですが私が一度それを忘れて戻りました
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ここの大谷観音でえっと
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 女性の方が説明してくれた時に夫がタバコを吸って注意されました
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: でここの左側にある階段をずっと上って行くと上の御朱印帳を受ける場所になっていていました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっとここで女性の方の説明を聞いて
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あとえっと池のある方にも回りました
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ここは大谷石でできているところでこの道路を挟んだ前の駐車場になっていて夫と一緒に回りました
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ここの階段の上の御朱印帳の売ってる場所でえっと
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 別の料金を払って展示も見ました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この上のところなんですがそこに色々なものが昔の展示物があってそれを一周してすべて展示できるようになっていてすべてみました
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: この左の階段がかなり高くなっているんですが一度忘れてもう一回戻ってから御朱印帳渡しました
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: えっとここは雷門で夫と息子と行った時にとても混んでいました
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 外国人の人が着物を着ていました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここは夫といった三十三箇所の坂東三十三箇所の一つの寺です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: とここの浅草雷門は
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 外国人の女の若い女性たちが日本の着物を着て写真を撮っていました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここはここも夫と一緒に行った所の千葉県のお寺行く途中に立ち寄ったところです
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えっと階段の上で御朱印帳
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 御朱印をもらい展示を見ました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここはここも浅草の雷門で
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 前にも以前にも行ったんですけれども今回行った時だけ息子と夫と一緒に行きました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここも夫と一緒に回った三十三箇所坂東のお寺の行く途中の場所です
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えっとここは浅草の雷門で行った時に非常に混んでいて馬車たみたいなのを引いてる男の人が若い男の人がいました
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: えっとここの上で御朱印をもらうんですが下も色々見るところがたくさんありました
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ここもえっと千葉の方のお寺に回っていた時に夫と立ち寄ったところです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: コンビニのところです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この雷門の近くで息子と夫と一緒に帰りに食事をしようとしたのですが混んでいてそのまま帰りました
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: えっとここも
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612

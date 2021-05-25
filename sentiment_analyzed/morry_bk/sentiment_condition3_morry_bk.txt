@@ -1,0 +1,168 @@
+Sentence text: えーとこれ水族館ね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 娘が水族館好きなハマってた時期がありまして
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 行く色んな所に連れて行ってましたね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: もうちょっと場所覚えてないんですけども
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 何か近くかなと
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはえと家内家族で結婚１４周年
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 何かお肉を食べに行ったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはどっか家内とランチに行った時のご飯写真ですかね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 京都だったかなぁ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは義理のお母さんの古希祝いだったかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 結婚１４周年のお店の
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 予約をしてたらこんなプレートプレートというか黒板を描いてくれた
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これは有馬温泉
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 義理の両親と
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これ水族館ですね
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 海遊館だったかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これ娘といった植物園ですね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えっと自宅から割と近い所に植物園が
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これはえっとハルカスですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ３３３メートル違うか何メートルだっけな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: コスモスえーと等の休日にお花を見に行くのが好きで
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: えっとこれは秋ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: はいえっとこれはコンサート見に行った時ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 京都の方にえーと
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これは海外からの留学生を招いて
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 留学生の方がスピーチをしてる時の写真ですねですね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これはですねえーっと
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 山口に息子の受験で行った時に
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 不合格だったんですけど部屋探しに行った時の写真ですね
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これもそうですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: アパートを見に行って
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 大学から割と歩いて行けるぐらいの距離だったと
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 植物園はいつかな春に行ったのかな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 結構お花がいろいろ咲いてた時だった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 太陽の塔ですね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 万博記念公園というところが大阪にありますけれどね
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 今度また
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: このコスモスは兵庫のどこだっけな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 琵琶湖ですね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: びわ湖バレーから見下ろした琵琶湖
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ちょっと曇りだった
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: あんまり天気が良くなかった
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これが京都の京都御所の紅葉紅葉の写真ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これはえーと福島の裏磐梯高原ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 裏磐梯に湖がいくつかあるんですけれども
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 奈良の平城京跡の大極殿ですね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なかなか広い敷地
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これが香川の小豆島ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 二十四の瞳とか映画とか有名な小豆島ですね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: オリーブとかね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これはツツジ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 京都の宇治院かな宇治のお寺の躑躅の
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは三重県の賢島ですかね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えー家族で旅行に行った時の写真ですね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これが運動会ですかね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 息子が中学生の時のピラミッド四段ピラミッドかなんか
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612

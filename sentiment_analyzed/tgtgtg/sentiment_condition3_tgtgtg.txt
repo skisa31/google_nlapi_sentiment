@@ -1,0 +1,162 @@
+Sentence text: あーニセコか懐かしいね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ああそっかそういえば一緒に行った二人はお国に帰っちゃったねそういえば
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああ懐かしいなニセコまた行きたいなあここは
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: いやでも本当にいってよかったなニセコは
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: お店が外国行っただけだとびっくりしたけど
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ああこれ北海道で食ったやつかニセコの帰りに食ったラーメンだっけなこれ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああそっかだからいくら丼ついてるんだ
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ああこれ築地で食ったやつだ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: コロナ明けたら行きたいな
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 確かになあ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああこれ生まれる前に買ったやつだ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ああ懐かしいなこれも
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 買った時ってこんな綺麗だったんだへえ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: ああはいはいこれ最近買ったやつか
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: なるほどね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 意外とこれ使い心地よかったんだよな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ああこれあいつの結婚式のときのやつかはいはいなるほど
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 年くらい前だっけなこれ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これこれどこだ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 全然覚えてないかもしんない
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ああこれニセコださっきの店かもしかして
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: はいはいニセコのライブハウスだこれ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 行ったなあ確かにこんなの
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: あれそんな前だっけこれ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああはいはい
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: このカレーもしばらく食いにいってないな思ったら確かに
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああはいはい
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ああ東急ね
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 確かにこんな写真あったな確かに
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああこれKLああこれあれだマレーシアのだ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 懐かしいなマレーシアの
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 確かにこんな電車乗ったなあ確かに
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああこれ実家か
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 実家もしばらく帰ってないなそういえば思ったら確かに
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: いつのだっけな
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: 全然覚えてないなこれ
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ああ確かにこのラーメン屋
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: まああんまり行ってないなそういえば
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: まあまた
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ああ確かに井田商店も最近行ってないな思ったら
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ちょっとやっぱりコロナで外食できないからな
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これいつ作ったやつだろ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 今のと比べると
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああ井田商店ね
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ああこれ秋葉原のやつかはいはい
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああ確かにこのすき焼きうまかったな確かに
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ああ作り置きね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: また作んなきゃね確かに
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ああこれ秋葉原のラーメンはいはい
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ここもほとんど行ってないな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: ああこれね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これはちょっとメルカリに出そう
+Sentence sentiment score: -0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: いらないから
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929

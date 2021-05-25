@@ -1,0 +1,144 @@
+Sentence text: これいつのチャートだ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああ先月か
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あニセコか
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これニセコだっけなどこだっけなああでもニセコだあの山があるから
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ああ確かにスクランブルスクエア行ったなあそういえば
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この子と一緒にちょっと雨降ってきたんだよなそう言えば
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああたしかに動物園も行ったなあ
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 楽しかったなあ夏に
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ずっと見てたなたしかに熊
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: ああたしかにこれ動物園行ったときだ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 暑くて飲み物たくさんあげたんだよたしか
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ああ結構二人で行ってるんだいろいろ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: へえ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: またあったかくなったらちょっとシロクマクマ見にいこう
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: このとき暑くてやばかったしなシロクマ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: へえ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ああなつかしいな
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ああこれなつかしいなんだっけなこれ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああこれ結婚式の出し物で出てきたやつだ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: なんだっけな名前グループの名前忘れちゃったなこれ
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: うん
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: へえ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 渋谷かあ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 子供と一緒にいろんなとこ出掛けてるな思ったら
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: まあちょっとコロナが落ち着いたらまたどっかに遊びに行きたいなあ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ああこれマレーシアかはいはいはいはい
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あれこんな高層マンションだったっけ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: このひとんちは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ああこれ浜離宮か
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: いや大きくなったなあ思ったら
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 動物園とかしときにくらべたら
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: へえ
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ああこれあそこか土合の駅か
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: たしかに階段キツかったなここ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ああここね
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ああここは渋谷ね
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああたしかにグーグル
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああこれ飯か
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 作り置きまた作んなきゃな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ああそっか
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: もうちょっと高いとこ連れていこ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: ああ仕事か
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ちょっと家にいるときこれ見たくないな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これはどこだ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ああつじ田かはいはいああこれは美味しそうだね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ああはい
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896

@@ -1,0 +1,171 @@
+Sentence text: これは伊佐沼の写真で釣りをしていた
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 面白かった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: よく釣れてまた行きたいと思った
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは自転車であそこの観覧車がある
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 遊園地に行った時の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんか青いポールがなんかいいと思った
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これもさっきと同じ写真でこっちはなんか暗く取れている
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 何かいい感じはしない
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これはなんだ狭山湖かなんかで撮った写真で
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 結構なんか雰囲気が悪かった
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは伊佐沼の写真で夕焼けが綺麗だった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 冬に撮った写真だった
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これは武蔵屋のラーメンの写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えー美味しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: また食べたいと思う
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: なんで撮ったかはわからない
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これは沖縄修学旅行の写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ステーキハウスで撮った写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 懐かしい気持ちになった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これも修学旅行の駅駅
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 沖縄那覇空港で撮った写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えー懐かしい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは狭山の森の中にある将軍塚で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんか結構怖かった
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これも狭山湖か何かで
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: あんまり雰囲気が良くなくて
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: うんあんま良くない
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これはどこの写真か分からない
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 分からない写真
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 航空公園まで自転車で行った時の写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 達成感があった
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは川にバイクに行った時の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 楽しかった思い出がある
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 友達のバイクが壊れて大変だった
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これもさっき見た伊佐沼の釣りの写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 鮒が沢山釣れた
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これも同じ写真で
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 自転車を買ったばっかだった
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 少し肌寒かった
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これも伊佐沼の写真で
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 夕焼けが綺麗だった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これもさっき見た写真で
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あんまり面白くない
+Sentence sentiment score: -0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これもさっき見た写真で
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あんまいい感じはしない
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これもさっき見た写真でいい感じはしない
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これは伊佐沼の写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 何かボケていていい感じ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは高校の時の写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 実習に行く時の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この後大変な実習があるから気分が落ち込んでいた
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: これは教室の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 懐かしい気持ちになる
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これも高校の時の写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 退学した友達がいるのは面白い
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 懐かしい気持ちになった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 沖縄修学旅行の写真で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

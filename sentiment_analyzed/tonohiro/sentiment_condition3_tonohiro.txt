@@ -1,0 +1,138 @@
+Sentence text: これもえっと夫と一緒に行った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: お寺を回るところの途中の場所です
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これも夫と一緒に行った三十三箇所の坂東三十三箇所の一つで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっと階段を上ったところで御朱印をもらいました
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: これは河口湖の花火で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あの夜の時頃までやってるんですが
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: そのために朝も早くから場所をとって主人の友達が最初に取っといてくれました
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これはちょっとどこだったか場所が思い出せないんですが
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: あ分かりました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっとこれは神戸のルミナリエの写真で夫と一緒に行きました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: とっても寒かったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これもあの神戸のメリケンパークです
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: いろんな場所に明かりが灯っていてとっても綺麗だったです
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは神戸の有名なタワー
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 夫がこのこの前にできた水たまりに映ったところを写真に撮っていました
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ここも神戸のルミナリエで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっと明かりがつく前から
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ずっと場所を探してもらってました
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これは夫といった三十三箇所巡りの途中のコンビニに行く途中の場所です
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: この岩殿寺も夫と一緒に回っていた三十三箇所坂東三十三箇所のお寺めぐりの一つです
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: ここも夫と一緒に行ったお寺の一つで
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えっと花や植木がとっても綺麗に整備されてました
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 夫と一緒に行ったお寺の一つでこの近くに
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えっと子宝に恵まれる木があっていました
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ここは自宅です最近のものです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっと最近一週間以内に写真が必要だっていうことだったので一週間以内の写真を家で撮りました
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ここもえっと夫と一緒に行った三十三箇所巡りの途中の踏切です
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっとここは浅草での雷門の近くのみんなが寄付したのか菊が飾られてました
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 夫と一緒に行った三十三箇所巡りの途中で
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっと
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: えっとこの穴から観音様が見えるようになる仕組みになっていて
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここで夫がすごく長い間シャッターを構えていたので次の人が待ってしまいました
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: えっとこれはここの大きな木に
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: えっと木が祀られていていてあの
+Sentence sentiment score: 0.4000000059604645
+Sentence sentiment magnitude: 0.4000000059604645
+Sentence text: とても霊験あらたかな場所でした
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: ここも夫と一緒に行ったところです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここも夫と一緒に入ったところの途中の踏切の場所です
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えっとここもここでえっと
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 子宝に恵まれるという木があってうちだけではなくて他の人も写真をかなりとってました
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: ここも夫と一緒に行った時の途中の踏切で待っていたところです
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっとこの穴からむこうを見ると
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっと観音様があるような場所にあってで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えっとここで夫がすごく長時間かけて撮影してました
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 私もその間に一瞬で撮りました
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: この階段を階段と言うかハシゴを登るとその穴の所にの観音様が見えるようになっていて子宝が授かるということでした
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ここも三十三箇所の
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0

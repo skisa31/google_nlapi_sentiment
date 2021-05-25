@@ -1,0 +1,240 @@
+Sentence text: これあれだ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ディズニーシーの何だっけあれ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えーとタワー・オブ・テラーに乗った時の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これが
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えーとgogoのお祭りの所の写真かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: タマングリアの写真かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これはどこだ
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えーと何ビーチだったっけかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 入場料は払わないといけないビーチで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 石像の前で撮った写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 変な格好して
+Sentence sentiment score: -0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: 何年前か二年二年前
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これが
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: バリ島のあちこちにある途中で建築が終わっちゃった廃墟のやつ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 完成しないかもしれない
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これが初めて朝の市場に行った時の写真かなー
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 今毎週行ってるけど
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これが私の誕生日に
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 東京プリンスタワーに行った時の写真かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ブリーズヴェールっていうレストラン
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: わー懐かしいこれ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 東京ミッドミッドタウンで撮った写真かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 十十二年ぐらい前
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがタイの新婚旅行の時に撮った
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ガジュマルガジュマルの木に
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 仏像が飲み込まれたところ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがこれがえーと東京の時に十年間住んでたマンションの入り口
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 懐かしい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これがタイタイで現地で買った買い物の数々
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: もう全部ない今
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: これタイの新婚旅行の時に行った伊勢丹だけど
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: つい最近ここも閉めちゃってすごい残念だったな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: これはタワー・オブ・テラーの写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: また乗りたい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 楽しかったなー
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これが東京で友達が遊びに来てた時に焼いた
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: チキンチキンのチーズ焼き
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 美味しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: えーこれどこのどこのだっけかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: どこの店か忘れちゃった
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なんかトロトロオムライス
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あー懐かしいこれ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 大森の品川区大田区か
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 大田区の大森にあるスマイルキッチン
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: すごいたくさん行ってたお店だ
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これが十年間住んでた大森のマンションのエントランス
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: すごい懐かしいね
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これが新婚旅行のタイで行った時の
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: お供え物を売ってるブース
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あーこれが
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えーと深夜お菓子が食べたくってセブンイレブンへ行った時の写真
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: チョコレートばっかりいつも買って食べたな
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: これがえー大田区にあるスマイルキッチン
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: タイ料理がすごい美味しいお店
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 店員さんの態度もすごい
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: これがえーと新婚旅行のタイの写真かな
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: 運河が運河川が流れてて
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 向こう岸に渡るのになんか
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 五円ぐらいで乗れるっていう船がある
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがえーバリで
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: ちょっと体調を崩して点滴打った時の写真
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これがえーとタイ旅行の最終日に食べた
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: 夜食べたタイ料理めっちゃ辛かったけど美味しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: また食べたいな
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: タイ料理は本場だと全然味が違う感じがした
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: タイにもまた行きたい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: こん時からすごいタイ料理が好きになった感じかな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 懐かしいすごい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: あこれがえーとタワー・オブ・テラーの時の写真
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんか写真は買わずに画面だけ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 写真撮った気がする
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これがタイタイのどこだっけかなこれ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: アユターヤ遺跡かなこれ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: すごい壮大だった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: でこれがえーとタイの新婚旅行で泊まってた
+Sentence sentiment score: 0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: ルシュタニホテルかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 無茶苦茶良いホテルだった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 朝食がめっちゃ美味しい
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: でこれがえーバリのムサドアのライトフェスティバル
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: なんかライトを点灯するイベントをやってる所の入り口
+Sentence sentiment score: -0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896

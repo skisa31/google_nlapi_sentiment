@@ -1,0 +1,153 @@
+Sentence text: すごい楽しかったやつだ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これすごい楽しかったなあ試合前かな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これは誰なんだろうこの人は
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: もう会わなかったけども
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: こん時は楽しかったか
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: すごいなんか朝まで飲んでた時かな
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 何で行ったんだっけ
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あー懐かしいフェスだ
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 楽しかった年越した後かな
+Sentence sentiment score: 0.800000011920929
+Sentence sentiment magnitude: 0.800000011920929
+Sentence text: テープ巻いてるし
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: えなんか３人仲いいな
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 仲良うーん会えなくなっちゃったからなぁ
+Sentence sentiment score: -0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 早く早くなんか集まりたい連絡しようかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: あー福山だ懐かしいこれも
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これそうだなこれは何年前
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: これ７年くらい前かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: この後が楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 昼夕方だから
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: イベントの前かな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あーこれ何の帰りなんだろう
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 高田馬場だ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あー撮影の時の
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これ大変だったなぁちょっと
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: このこのシーンすごい楽しかったな
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: この２人集まりたい
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: なんか若い
+Sentence sentiment score: -0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: 展示の前だこん時すごい活動してたな
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: なんで耳着けてんだろうなんで耳持ってんだろうな
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 百均で買ったのかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: でもこの展示楽しかったな結構嬉しかったやつ
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: これ何年の時なんだろう
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
+Sentence text: なんかあんまりこの子以外あんまり知らなかった気がするなあ一緒に行った人
+Sentence sentiment score: -0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: 花見
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: えんやさん
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あーこれ打ち上げトラゲットの打ち上げかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: や楽しかったなめっちゃ作ってた
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: そっかーでこの並びなんだろうか
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: 顔合わせ打ち上げっぽくないなぁ
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 思い出せないな
+Sentence sentiment score: -0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: あーこれ撮影の前のやつかな
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あみんなでやったやつ
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: これ楽しかった
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: すごい若っかみんなスーツか
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 制作展
+Sentence sentiment score: 0.20000000298023224
+Sentence sentiment magnitude: 0.20000000298023224
+Sentence text: これは進級制作展
+Sentence sentiment score: 0.0
+Sentence sentiment magnitude: 0.0
+Sentence text: あそっかこの人が出てくれたやつか
+Sentence sentiment score: 0.5
+Sentence sentiment magnitude: 0.5
+Sentence text: えあーもちょっとなんかよくできた気もするな
+Sentence sentiment score: 0.699999988079071
+Sentence sentiment magnitude: 0.699999988079071
+Sentence text: 可愛い二人とも
+Sentence sentiment score: 0.8999999761581421
+Sentence sentiment magnitude: 0.8999999761581421
+Sentence text: 元気かなー
+Sentence sentiment score: 0.6000000238418579
+Sentence sentiment magnitude: 0.6000000238418579
+Sentence text: 花見花見な
+Sentence sentiment score: 0.30000001192092896
+Sentence sentiment magnitude: 0.30000001192092896
+Sentence text: でも２人で喋ってたのかな
+Sentence sentiment score: -0.10000000149011612
+Sentence sentiment magnitude: 0.10000000149011612
